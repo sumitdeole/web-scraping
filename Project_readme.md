@@ -1,4 +1,5 @@
-## Web scraping project about *Walt Disney movies*
+## Web scraping project on *Walt Disney movies*
+
 ### **Description:** 
 We will scrape movie information (producers, directors, cast, budget, etc.) of Walt Disney movies from Wikipedia pages. The project is divided into two exercises:
 1. Get movie information on a famous Walt Disney Movie: Toy Story 3: https://en.wikipedia.org/wiki/Toy_Story_3
