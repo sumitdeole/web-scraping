@@ -9,3 +9,7 @@ We will scrape movie information (producers, directors, cast, budget, etc.) of W
 - BeautifulSoup
 - Prettify
 - Pandas
+
+
+
+##### *Disclaimer:* I already confirmed what is allowed concerning web scraping in wikipedia's rules present in their robots.txt. All is well here.
