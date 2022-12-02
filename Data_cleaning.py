@@ -5,18 +5,12 @@
 # Clean the data
 ## To do (Need to regenerate data file):
 ### Convert dates into datetime objects
+### Convert running time into an integer
 ### Remove the wiki references/citations: [1], [2], [3], etc.
 ### Repair the inconsistencies in the "Starring" list --> Split up the long strings, e.g., movie "The Great Locomotive Chase"
 ### Replace number range in the "Budget" and "Box office" with numbers
 #################################################################
 
-
-# Project title: Web scraping project on Walt Disney movies
-
-#################################################################
-# Exercise 2
-# Get the list of all Walt Disney movies
-#################################################################
 
 
 import requests
@@ -24,6 +18,8 @@ from bs4 import BeautifulSoup as bs
 import prettify
 import random
 import json
+import re
+import pytest
 
 
 page = "https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films"
@@ -87,6 +83,7 @@ def get_info_box(url):
 # Solution: See the function method clean_reference_tags(soup) defined above
 # Solution also removes double data entries, e.g., "Release date": [       "November 13, 1940 ( 1940-11-13 )"     ],
 
+
 page = "https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films"
 response = requests.get(page)
 soup = bs(response.content, "html.parser")
@@ -109,6 +106,121 @@ for index, movie in enumerate(movies):
   except Exception as e:
     print(movie.get_text())
     print(e)
+
+
+
+# Convert dates into datetimes
+print([movie.get("Release date", "N/A") for movie in movie_info_list])
+# Typical format: June 27, 1941 --> but different edge cases
+from datetime import datetime
+dates = [movie.get("Release date", "N/A") for movie in movie_info_list]
+
+def clean_date(date):
+  return date.split("(")[0].strip()
+
+
+def date_conversion(date):
+  if isinstance(date, list):
+    date = date[0]
+  if date=="N/A":
+    return None
+  date_string=clean_date(date)
+  print(date_string)
+  fmts = ["%B %d, %Y", "%d %B %Y"]
+  for fmt in fmts:
+    try:
+      return datetime.strptime(date_string, fmt)
+    except:
+      pass
+  return None
+
+
+
+### Task: Convert running time into integer
+# First, check whther all movies have running times
+# Command
+# print([movie.get("Running time", "N/A") for movie in movie_info_list])
+
+### Task: Convert running time into integer
+# First, check whther all movies have running times
+# Command
+# print([movie.get("Running time", "N/A") for movie in movie_info_list])
+# Solution: Lets write a function "minutes_to_integer()"
+def minutes_to_integer(running_time):
+  if running_time=="N/A":
+    return None
+  if isinstance(running_time, list):
+    entry=running_time[0]
+    value= int(entry.split(" ")[0])
+    return value
+  else:
+    value= int(running_time.split(" ")[0])
+    return value
+#Test example: print(minutes_to_integer("85 minutes")) --> Works
+#But, edge case: running time as a list: print(minutes_to_integer(["85 minutes", "4 minutes"]))  - a simple function wont work --> hence, if statement with isinstance
+
+
+
+# Test example: movie_info_list[-10]
+# Test example: TO test whether our function works properly: print([movie.get("Running time (int)", "N/A") for movie in movie_info_list])
+
+
+
+
+### Replace number range in the "Budget" and "Box office" with numbers
+# Money conversion
+# Given either a string or a list of strings as input, return a number (int or float) which is equal to the monetary value
+# money_conversion("$12.2 million") --> 12200000    --> Word syntax
+# money_conversion("$790,000") --> 790000  --> Value syntax
+import re
+
+number = r"\d+(,\d{3})*\.*\d*"
+amounts = r"thousand|million|billion"
+standard = fr"\${number}(-|\sto\s)?({number})?\s({amounts})"
+
+value_re = rf"\${number}"
+word_re = rf"\${number}(-|\sto\s)?({number})\s({amounts})"
+
+def word_to_value(word):
+	value_dict = {"thousand": 1000, "million": 1000000, "billion": 1000000000}
+	return value_dict[word]
+
+def parse_word_syntax(string):
+		value_string = re.search(number, string).group()
+		value=float(value_string.replace(",",""))
+		word = re.search(amounts, string, flags=re.I).group().lower()
+		word_value = word_to_value(word)
+		return value*word_value
+
+
+def parse_value_syntax(string):
+		value_string = re.search(number, string).group()
+		value=float(value_string.replace(",",""))
+		return value
+
+def money_conversion(money):
+		if money=="N/A":
+			return None
+		if isinstance(money, list):
+			money=money[0]
+		word_syntax = re.search(word_re, money, flags=re.I)
+		value_syntax = re.search(value_re, money)
+		if word_syntax:
+			return parse_word_syntax(word_syntax.group())
+		elif value_syntax:
+			return parse_value_syntax(value_syntax.group())
+		else:
+			return None
+
+
+for movie in movie_info_list:
+  movie["Budget (float)"]=money_conversion(movie.get("Budget", "N/A"))
+  movie["Box office (float)"]=money_conversion(movie.get("Box office", "N/A"))
+  movie["Running time (int)"]=minutes_to_integer(movie.get("Running time", "N/A"))
+  movie["Release date (datetime)"] = money_conversion(movie.get("Release date", "N/A"))
+
+
+
 
 
 

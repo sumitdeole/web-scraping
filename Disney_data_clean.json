@@ -53,7 +53,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.49 million",
-    "Box office": "$418 million"
+    "Box office": "$418 million",
+    "Budget (float)": 1490000.0,
+    "Box office (float)": 418000000.0,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "Pinocchio",
@@ -104,7 +108,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.6 million",
-    "Box office": "$164 million"
+    "Box office": "$164 million",
+    "Budget (float)": 2600000.0,
+    "Box office (float)": 164000000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Fantasia",
@@ -146,7 +154,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.28 million",
-    "Box office": "$76.4–$83.3 million (United States and Canada)"
+    "Box office": "$76.4–$83.3 million (United States and Canada)",
+    "Budget (float)": 2280000.0,
+    "Box office (float)": 83300000.0,
+    "Running time (int)": 126,
+    "Release date (datetime)": null
   },
   {
     "title": "The Reluctant Dragon",
@@ -204,7 +216,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$600,000",
-    "Box office": "$960,000 (worldwide rentals)"
+    "Box office": "$960,000 (worldwide rentals)",
+    "Budget (float)": 600000.0,
+    "Box office (float)": 960000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Dumbo",
@@ -251,7 +267,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$950,000",
-    "Box office": ">$1.3 million (est. United States/Canada rentals, 1941)"
+    "Box office": ">$1.3 million (est. United States/Canada rentals, 1941)",
+    "Budget (float)": 950000.0,
+    "Box office (float)": 1300000.0,
+    "Running time (int)": 64,
+    "Release date (datetime)": null
   },
   {
     "title": "Bambi",
@@ -299,7 +319,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$858,000",
-    "Box office": "$267.4 million"
+    "Box office": "$267.4 million",
+    "Budget (float)": 858000.0,
+    "Box office (float)": 267399999.99999997,
+    "Running time (int)": 70,
+    "Release date (datetime)": null
   },
   {
     "title": "Saludos Amigos",
@@ -352,7 +376,11 @@
       "Portuguese",
       "Spanish"
     ],
-    "Box office": "$1.135 million (worldwide rentals)"
+    "Box office": "$1.135 million (worldwide rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 1135000.0,
+    "Running time (int)": 42,
+    "Release date (datetime)": null
   },
   {
     "title": "Victory Through Air Power",
@@ -395,7 +423,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$788,000",
-    "Box office": "$799,000"
+    "Box office": "$799,000",
+    "Budget (float)": 788000.0,
+    "Box office (float)": 799000.0,
+    "Running time (int)": 65,
+    "Release date (datetime)": null
   },
   {
     "title": "The Three Caballeros",
@@ -442,7 +474,11 @@
       "Spanish",
       "Portuguese"
     ],
-    "Box office": "$3.355 million (worldwide rentals)"
+    "Box office": "$3.355 million (worldwide rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 3355000.0,
+    "Running time (int)": 71,
+    "Release date (datetime)": null
   },
   {
     "title": "Make Mine Music",
@@ -501,7 +537,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.35 million",
-    "Box office": "$3.275 million (worldwide rentals)"
+    "Box office": "$3.275 million (worldwide rentals)",
+    "Budget (float)": 1350000.0,
+    "Box office (float)": 3275000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "Song of the South",
@@ -551,7 +591,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.125 million",
-    "Box office": "$65 million"
+    "Box office": "$65 million",
+    "Budget (float)": 2125000.0,
+    "Box office (float)": 65000000.0,
+    "Running time (int)": 94,
+    "Release date (datetime)": null
   },
   {
     "title": "Fun and Fancy Free",
@@ -603,7 +647,11 @@
     "Running time": "73 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.165 million (worldwide rentals)"
+    "Box office": "$3.165 million (worldwide rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 3165000.0,
+    "Running time (int)": 73,
+    "Release date (datetime)": null
   },
   {
     "title": "Melody Time",
@@ -655,7 +703,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.5 million",
-    "Box office": "$2.56 million (worldwide rentals)"
+    "Box office": "$2.56 million (worldwide rentals)",
+    "Budget (float)": 1500000.0,
+    "Box office (float)": 2560000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "So Dear to My Heart",
@@ -699,7 +751,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.5 million",
-    "Box office": "$3.7 million (U.S. rental) + $575,000 (foreign rental)"
+    "Box office": "$3.7 million (U.S. rental) + $575,000 (foreign rental)",
+    "Budget (float)": 1500000.0,
+    "Box office (float)": 3700000.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "The Adventures of Ichabod and Mr. Toad",
@@ -752,7 +808,11 @@
     "Running time": "68 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.625 million (worldwide rentals)"
+    "Box office": "$1.625 million (worldwide rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 1625000.0,
+    "Running time (int)": 68,
+    "Release date (datetime)": null
   },
   {
     "title": "Cinderella",
@@ -804,7 +864,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.2 million",
-    "Box office": "$182 million"
+    "Box office": "$182 million",
+    "Budget (float)": 2200000.0,
+    "Box office (float)": 182000000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Treasure Island",
@@ -841,7 +905,11 @@
     ],
     "Language": "English",
     "Budget": "$1,800,000",
-    "Box office": "$4,100,000 (worldwide rentals)"
+    "Box office": "$4,100,000 (worldwide rentals)",
+    "Budget (float)": 1800000.0,
+    "Box office (float)": 4100000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Alice in Wonderland",
@@ -902,7 +970,11 @@
     "Box office": [
       "$2.4 million (1951, domestic)",
       "$3.5 million (1974, domestic)"
-    ]
+    ],
+    "Budget (float)": 3.0,
+    "Box office (float)": 2400000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "The Story of Robin Hood",
@@ -932,7 +1004,11 @@
       "United Kingdom"
     ],
     "Language": "English",
-    "Box office": "$2.1 million (US rentals)"
+    "Box office": "$2.1 million (US rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 2100000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "Peter Pan",
@@ -974,7 +1050,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$87.4 million (United States and Canada)"
+    "Box office": "$87.4 million (United States and Canada)",
+    "Budget (float)": 4.0,
+    "Box office (float)": 87400000.0,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "The Sword and the Rose",
@@ -1020,7 +1100,11 @@
     ],
     "Language": "English",
     "Budget": "$2 million",
-    "Box office": "$1 million (US)"
+    "Box office": "$1 million (US)",
+    "Budget (float)": 2.0,
+    "Box office (float)": 1.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "The Living Desert",
@@ -1049,7 +1133,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$300,000",
-    "Box office": "$2.6 million (US)"
+    "Box office": "$2.6 million (US)",
+    "Budget (float)": 300000.0,
+    "Box office (float)": 2600000.0,
+    "Running time (int)": 69,
+    "Release date (datetime)": null
   },
   {
     "title": "Rob Roy: The Highland Rogue",
@@ -1082,7 +1170,11 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$1.8 million"
+    "Budget": "$1.8 million",
+    "Budget (float)": 1800000.0,
+    "Box office (float)": null,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "The Vanishing Prairie",
@@ -1110,7 +1202,11 @@
     ],
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US and Canadian rentals)"
+    "Box office": "$1.75 million (US and Canadian rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 1750000.0,
+    "Running time (int)": 60,
+    "Release date (datetime)": null
   },
   {
     "title": "20,000 Leagues Under the Sea",
@@ -1140,7 +1236,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$28.2 million"
+    "Box office": "$28.2 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 28200000.0,
+    "Running time (int)": 127,
+    "Release date (datetime)": null
   },
   {
     "title": "Davy Crockett: King of the Wild Frontier",
@@ -1164,7 +1264,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,150,000 (US)"
+    "Box office": "$2,150,000 (US)",
+    "Budget (float)": null,
+    "Box office (float)": 2150000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Lady and the Tramp",
@@ -1206,7 +1310,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$187 million"
+    "Box office": "$187 million",
+    "Budget (float)": 4.0,
+    "Box office (float)": 187000000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "The African Lion",
@@ -1231,7 +1339,11 @@
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.1 million (US)"
+    "Box office": "$2.1 million (US)",
+    "Budget (float)": null,
+    "Box office (float)": 2100000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "The Littlest Outlaw",
@@ -1247,7 +1359,11 @@
     "Running time": "73 minutes",
     "Countries": "United States, Mexico",
     "Languages": "English, Spanish",
-    "Box office": "$1.6 million (US)"
+    "Box office": "$1.6 million (US)",
+    "Budget (float)": null,
+    "Box office (float)": 1600000.0,
+    "Running time (int)": 73,
+    "Release date (datetime)": null
   },
   {
     "title": "The Great Locomotive Chase",
@@ -1273,7 +1389,11 @@
     "Running time": "85 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.7 million (US)"
+    "Box office": "$1.7 million (US)",
+    "Budget (float)": null,
+    "Box office (float)": 1700000.0,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "Davy Crockett and the River Pirates",
@@ -1303,7 +1423,11 @@
     ],
     "Running time": "81 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "Secrets of Life",
@@ -1335,7 +1459,11 @@
     ],
     "Running time": "70 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 70,
+    "Release date (datetime)": null
   },
   {
     "title": "Westward Ho the Wagons!",
@@ -1366,7 +1494,11 @@
     "Running time": "90 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.75 million (US)"
+    "Box office": "$2.75 million (US)",
+    "Budget (float)": null,
+    "Box office (float)": 2750000.0,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "Johnny Tremain",
@@ -1394,7 +1526,11 @@
     "Running time": "80 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$700,000"
+    "Budget": "$700,000",
+    "Budget (float)": 700000.0,
+    "Box office (float)": null,
+    "Running time (int)": 80,
+    "Release date (datetime)": null
   },
   {
     "title": "Perri",
@@ -1435,7 +1571,11 @@
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US rentals)"
+    "Box office": "$1.75 million (US rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 1750000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "Old Yeller",
@@ -1469,7 +1609,11 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,250,000 (U.S./Canada rentals)"
+    "Box office": "$6,250,000 (U.S./Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 6250000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "The Light in the Forest",
@@ -1496,7 +1640,11 @@
     ],
     "Running time": "83 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "White Wilderness",
@@ -1517,7 +1665,11 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$1.8 million (est. US/Canada rentals)"
+    "Box office": "$1.8 million (est. US/Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 1800000.0,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Tonka",
@@ -1553,7 +1705,11 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.5 million (est. US/ Canada rentals)"
+    "Box office": "$2.5 million (est. US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 2500000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Sleeping Beauty",
@@ -1597,7 +1753,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$6 million",
-    "Box office": "$51.6 million (United States and Canada)"
+    "Box office": "$51.6 million (United States and Canada)",
+    "Budget (float)": 6.0,
+    "Box office (float)": 51600000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "The Shaggy Dog",
@@ -1635,7 +1795,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "under $1 million or $1,250,000",
-    "Box office": "$12.3 million (US and Canada rentals)"
+    "Box office": "$12.3 million (US and Canada rentals)",
+    "Budget (float)": 1.0,
+    "Box office (float)": 12300000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Darby O'Gill and the Little People",
@@ -1677,7 +1841,11 @@
       "1969 re-release",
       ":",
       "$2.3 million  (US/ Canada rentals)"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Third Man on the Mountain",
@@ -1708,7 +1876,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2 million",
-    "Box office": "$1,700,000 (US/Canada rentals)"
+    "Box office": "$1,700,000 (US/Canada rentals)",
+    "Budget (float)": 2.0,
+    "Box office (float)": 1700000.0,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Toby Tyler or 10 Weeks with a Circus",
@@ -1736,7 +1908,11 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,100,000 (US/Canada rentals)"
+    "Box office": "$3,100,000 (US/Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 3100000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Kidnapped",
@@ -1763,7 +1939,11 @@
     ],
     "Running time": "97 minutes",
     "Country": "United States",
-    "Languages": "English, Scots"
+    "Languages": "English, Scots",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Pollyanna",
@@ -1792,7 +1972,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.5 million",
-    "Box office": "$3.75 million (US and Canadian rentals)"
+    "Box office": "$3.75 million (US and Canadian rentals)",
+    "Budget (float)": 2500000.0,
+    "Box office (float)": 3750000.0,
+    "Running time (int)": 134,
+    "Release date (datetime)": null
   },
   {
     "title": "Jungle Cat",
@@ -1816,7 +2000,11 @@
     "Running time": "69 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.3 million (US and Canadian rentals)"
+    "Box office": "$2.3 million (US and Canadian rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 2300000.0,
+    "Running time (int)": 69,
+    "Release date (datetime)": null
   },
   {
     "title": "Ten Who Dared",
@@ -1850,7 +2038,11 @@
     ],
     "Running time": "92 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Swiss Family Robinson",
@@ -1884,7 +2076,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$40 million"
+    "Box office": "$40 million",
+    "Budget (float)": 4.0,
+    "Box office (float)": 40000000.0,
+    "Running time (int)": 126,
+    "Release date (datetime)": null
   },
   {
     "title": "One Hundred and One Dalmatians",
@@ -1923,7 +2119,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3.6 million",
-    "Box office": "$303 million"
+    "Box office": "$303 million",
+    "Budget (float)": 3600000.0,
+    "Box office (float)": 303000000.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "The Absent-Minded Professor",
@@ -1954,7 +2154,11 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$11.426 million (U.S. and Canada rentals)"
+    "Box office": "$11.426 million (U.S. and Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 11426000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The Parent Trap",
@@ -1990,7 +2194,11 @@
     "Running time": "128 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$25.1 million"
+    "Box office": "$25.1 million",
+    "Budget (float)": null,
+    "Box office (float)": 25100000.0,
+    "Running time (int)": 128,
+    "Release date (datetime)": null
   },
   {
     "title": "Nikki: Wild Dog of the North",
@@ -2037,7 +2245,11 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 73,
+    "Release date (datetime)": null
   },
   {
     "title": "Greyfriars Bobby",
@@ -2068,7 +2280,11 @@
     ],
     "Running time": "91 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Babes in Toyland",
@@ -2112,7 +2328,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$4.6 million (U.S./Canada rentals)"
+    "Box office": "$4.6 million (U.S./Canada rentals)",
+    "Budget (float)": 3.0,
+    "Box office (float)": 4600000.0,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Moon Pilot",
@@ -2144,7 +2364,11 @@
     "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.5 million"
+    "Box office": "$3.5 million",
+    "Budget (float)": null,
+    "Box office (float)": 3500000.0,
+    "Running time (int)": 98,
+    "Release date (datetime)": null
   },
   {
     "title": "Bon Voyage!",
@@ -2175,7 +2399,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$5 million (rentals)"
+    "Box office": "$5 million (rentals)",
+    "Budget (float)": 3.0,
+    "Box office (float)": 5.0,
+    "Running time (int)": 130,
+    "Release date (datetime)": null
   },
   {
     "title": "Big Red",
@@ -2208,7 +2436,11 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "Almost Angels",
@@ -2224,7 +2456,11 @@
     "Release date": "September 26, 1962",
     "Running time": "93 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The Legend of Lobo",
@@ -2269,7 +2505,11 @@
     ],
     "Running time": "67 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 67,
+    "Release date (datetime)": null
   },
   {
     "title": "In Search of the Castaways",
@@ -2312,7 +2552,11 @@
     "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,745,500"
+    "Box office": "$21,745,500",
+    "Budget (float)": null,
+    "Box office (float)": 21745500.0,
+    "Running time (int)": 98,
+    "Release date (datetime)": null
   },
   {
     "title": "Son of Flubber",
@@ -2341,7 +2585,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.1 million"
+    "Box office": "$22.1 million",
+    "Budget (float)": null,
+    "Box office (float)": 22100000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Miracle of the White Stallions",
@@ -2377,7 +2625,11 @@
     "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,550,000 (US/ Canada)"
+    "Box office": "$2,550,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 2550000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Savage Sam",
@@ -2412,7 +2664,11 @@
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (U.S./Canada)"
+    "Box office": "$3,000,000 (U.S./Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 3000000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "Summer Magic",
@@ -2453,7 +2709,11 @@
     "Running time": "110 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,350,000 (US/ Canada rentals)"
+    "Box office": "$4,350,000 (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 4350000.0,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "The Incredible Journey",
@@ -2487,7 +2747,11 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$4.2 million (US/Canada) (rentals)"
+    "Box office": "$4.2 million (US/Canada) (rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 4200000.0,
+    "Running time (int)": 80,
+    "Release date (datetime)": null
   },
   {
     "title": "The Sword in the Stone",
@@ -2522,7 +2786,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$22.2 million (United States and Canada)"
+    "Box office": "$22.2 million (United States and Canada)",
+    "Budget (float)": 3.0,
+    "Box office (float)": 22200000.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "A Tiger Walks",
@@ -2554,7 +2822,11 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "est. $1,600,000 (US/ Canada)"
+    "Box office": "est. $1,600,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 1600000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "The Misadventures of Merlin Jones",
@@ -2584,7 +2856,11 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada)"
+    "Box office": "$4,000,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 4000000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "The Three Lives of Thomasina",
@@ -2623,7 +2899,11 @@
       "English",
       "Gaelic"
     ],
-    "Box office": "$2,250,000 (US/ Canada)"
+    "Box office": "$2,250,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 2250000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The Moon-Spinners",
@@ -2656,7 +2936,11 @@
     ],
     "Running time": "118 minutes",
     "Language": "English",
-    "Box office": "est. $3,500,000 (US/ Canada)"
+    "Box office": "est. $3,500,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 3500000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Mary Poppins",
@@ -2700,7 +2984,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4.4–6 million",
-    "Box office": "$103.1 million"
+    "Box office": "$103.1 million",
+    "Budget (float)": 4.4,
+    "Box office (float)": 103100000.0,
+    "Running time (int)": 139,
+    "Release date (datetime)": null
   },
   {
     "title": "Those Calloways",
@@ -2728,7 +3016,11 @@
     "Running time": "131 mins.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,500,000 (US/ Canada rentals)"
+    "Box office": "$3,500,000 (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 3500000.0,
+    "Running time (int)": 131,
+    "Release date (datetime)": null
   },
   {
     "title": "Emil and the Detectives",
@@ -2757,7 +3049,11 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,275,000"
+    "Box office": "$1,275,000",
+    "Budget (float)": null,
+    "Box office (float)": 1275000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "The Monkey's Uncle",
@@ -2786,7 +3082,11 @@
     "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/Canada rentals)"
+    "Box office": "$4,000,000 (US/Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 4000000.0,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "That Darn Cat!",
@@ -2825,7 +3125,11 @@
     "Running time": "116 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$28,068,222"
+    "Box office": "$28,068,222",
+    "Budget (float)": null,
+    "Box office (float)": 28068222.0,
+    "Running time (int)": 116,
+    "Release date (datetime)": null
   },
   {
     "title": "The Ugly Dachshund",
@@ -2857,7 +3161,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.2 million (est. US/ Canada rentals)"
+    "Box office": "$6.2 million (est. US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 6200000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Lt. Robin Crusoe, U.S.N.",
@@ -2893,7 +3201,11 @@
     "Running time": "110 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22,565,634"
+    "Box office": "$22,565,634",
+    "Budget (float)": null,
+    "Box office (float)": 22565634.0,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "The Fighting Prince of Donegal",
@@ -2922,7 +3234,11 @@
       "United Kingdom",
       "United States"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "Follow Me, Boys!",
@@ -2963,7 +3279,11 @@
     "Running time": "131 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$16,207,116"
+    "Box office": "$16,207,116",
+    "Budget (float)": null,
+    "Box office (float)": 16207116.0,
+    "Running time (int)": 131,
+    "Release date (datetime)": null
   },
   {
     "title": "Monkeys, Go Home!",
@@ -2987,7 +3307,11 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada)"
+    "Box office": "$3,000,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 3000000.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "The Adventures of Bullwhip Griffin",
@@ -3020,7 +3344,11 @@
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,900,000 (US/ Canada)"
+    "Box office": "$1,900,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 1900000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "The Gnome-Mobile",
@@ -3051,7 +3379,11 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada)"
+    "Box office": "$4,000,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 4000000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "The Jungle Book",
@@ -3092,7 +3424,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$378 million"
+    "Box office": "$378 million",
+    "Budget (float)": 4.0,
+    "Box office (float)": 378000000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Charlie, the Lonesome Cougar",
@@ -3128,7 +3464,11 @@
     ],
     "Running time": "75 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "The Happiest Millionaire",
@@ -3181,7 +3521,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$5 million (U.S./Canada rentals)"
+    "Box office": "$5 million (U.S./Canada rentals)",
+    "Budget (float)": 5.0,
+    "Box office (float)": 5.0,
+    "Running time (int)": 164,
+    "Release date (datetime)": null
   },
   {
     "title": "Blackbeard's Ghost",
@@ -3213,7 +3557,11 @@
     "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,540,050"
+    "Box office": "$21,540,050",
+    "Budget (float)": null,
+    "Box office (float)": 21540050.0,
+    "Running time (int)": 106,
+    "Release date (datetime)": null
   },
   {
     "title": "The One and Only, Genuine, Original Family Band",
@@ -3249,7 +3597,11 @@
     "Running time": "110 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,250,000 (US/ Canada)"
+    "Box office": "$2,250,000 (US/ Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 2250000.0,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "Never a Dull Moment",
@@ -3278,7 +3630,11 @@
     "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,150,000 (US/ Canada rentals)"
+    "Box office": "$4,150,000 (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 4150000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "The Horse in the Gray Flannel Suit",
@@ -3309,7 +3665,11 @@
     "Running time": "113 mins.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.3 million  (US/ Canada rentals)"
+    "Box office": "$3.3 million  (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 3300000.0,
+    "Running time (int)": 113,
+    "Release date (datetime)": null
   },
   {
     "title": "The Love Bug",
@@ -3339,7 +3699,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$51.3 million"
+    "Box office": "$51.3 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 51300000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "Smith!",
@@ -3360,7 +3724,11 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.3 million (US/ Canada rentals)"
+    "Box office": "$1.3 million (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 1300000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Rascal",
@@ -3387,7 +3755,11 @@
     ],
     "Running time": "85 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "The Computer Wore Tennis Shoes",
@@ -3412,7 +3784,11 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.5 million (US/ Canada rentals)"
+    "Box office": "$5.5 million (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 5500000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "King of the Grizzlies",
@@ -3448,7 +3824,11 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The Boatniks",
@@ -3477,7 +3857,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18,607,492"
+    "Box office": "$18,607,492",
+    "Budget (float)": null,
+    "Box office (float)": 18607492.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The Wild Country",
@@ -3502,7 +3886,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada)"
+    "Box office": "$4 million (rentals) (US/Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 4.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The Aristocats",
@@ -3548,7 +3936,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$191 million"
+    "Box office": "$191 million",
+    "Budget (float)": 4.0,
+    "Box office (float)": 191000000.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "The Barefoot Executive",
@@ -3581,7 +3973,11 @@
     "Release date": "March 17, 1971",
     "Running time": "96 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Scandalous John",
@@ -3601,7 +3997,11 @@
     "Release date": "June 22, 1971",
     "Running time": "113 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 113,
+    "Release date (datetime)": null
   },
   {
     "title": "The Million Dollar Duck",
@@ -3628,7 +4028,11 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.1 million (North America) (rentals)"
+    "Box office": "$5.1 million (North America) (rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 5100000.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "Bedknobs and Broomsticks",
@@ -3668,7 +4072,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$6.3 million",
-    "Box office": "$17.9 million"
+    "Box office": "$17.9 million",
+    "Budget (float)": 6300000.0,
+    "Box office (float)": 17900000.0,
+    "Running time (int)": 117,
+    "Release date (datetime)": null
   },
   {
     "title": "The Biscuit Eater",
@@ -3692,7 +4100,11 @@
     ],
     "Running time": "92 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Now You See Him, Now You Don't",
@@ -3716,7 +4128,11 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,610,000 (US/Canada) (rentals)"
+    "Box office": "$4,610,000 (US/Canada) (rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 4610000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Napoleon and Samantha",
@@ -3738,7 +4154,11 @@
     ],
     "Running time": "92 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Run, Cougar, Run",
@@ -3768,7 +4188,11 @@
     ],
     "Running time": "87 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "Snowball Express",
@@ -3810,7 +4234,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,100,000 (US/ Canada rentals)"
+    "Box office": "$6,100,000 (US/ Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 6100000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The World's Greatest Athlete",
@@ -3835,7 +4263,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22,583,370"
+    "Box office": "$22,583,370",
+    "Budget (float)": null,
+    "Box office (float)": 22583370.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Charley and the Angel",
@@ -3868,7 +4300,11 @@
     ],
     "Running time": "93 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "One Little Indian",
@@ -3895,7 +4331,11 @@
     "Running time": "90 Minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2 million"
+    "Box office": "$2 million",
+    "Budget (float)": null,
+    "Box office (float)": 2.0,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "Robin Hood",
@@ -3935,7 +4375,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$33 million"
+    "Box office": "$33 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 33000000.0,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "Superdad",
@@ -3963,7 +4407,11 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7 million (US/Canada rentals)"
+    "Box office": "$7 million (US/Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 7.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Herbie Rides Again",
@@ -3996,7 +4444,11 @@
     "Box office": [
       "$38,229,000 (US/Canada gross)",
       "$30.8 million (worldwide rentals)"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": 38229000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "The Bears and I",
@@ -4026,7 +4478,11 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada)"
+    "Box office": "$4 million (rentals) (US/Canada)",
+    "Budget (float)": null,
+    "Box office (float)": 4.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "The Castaway Cowboy",
@@ -4052,7 +4508,11 @@
     ],
     "Running time": "91 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "The Island at the Top of the World",
@@ -4087,7 +4547,11 @@
       "Icelandic"
     ],
     "Budget": "$8 million",
-    "Box office": "$10 million (US/Canada rentals)"
+    "Box office": "$10 million (US/Canada rentals)",
+    "Budget (float)": 8.0,
+    "Box office (float)": 10000000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The Strongest Man in the World",
@@ -4115,7 +4579,11 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.6 million (US/Canada rentals)"
+    "Box office": "$6.6 million (US/Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 6600000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Escape to Witch Mountain",
@@ -4148,7 +4616,11 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$20,000,000"
+    "Box office": "$20,000,000",
+    "Budget (float)": null,
+    "Box office (float)": 20000000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The Apple Dumpling Gang",
@@ -4183,7 +4655,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$36,853,000"
+    "Box office": "$36,853,000",
+    "Budget (float)": null,
+    "Box office (float)": 36853000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "One of Our Dinosaurs is Missing",
@@ -4211,7 +4687,11 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": "$5.5 million (North American rentals)"
+    "Box office": "$5.5 million (North American rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 5500000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
@@ -4256,7 +4736,11 @@
     ],
     "Running time": "89 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "True-Life Adventures",
@@ -4290,7 +4774,11 @@
       "1948–1960"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Ride a Wild Pony",
@@ -4325,7 +4813,11 @@
       "Australia"
     ],
     "Language": "English",
-    "Budget": "AU$1 million"
+    "Budget": "AU$1 million",
+    "Budget (float)": 1.0,
+    "Box office (float)": null,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "No Deposit, No Return",
@@ -4356,7 +4848,11 @@
     ],
     "Running time": "112 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 112,
+    "Release date (datetime)": null
   },
   {
     "title": "Treasure of Matecumbe",
@@ -4387,7 +4883,11 @@
     ],
     "Running time": "115 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 115,
+    "Release date (datetime)": null
   },
   {
     "title": "Gus",
@@ -4418,7 +4918,11 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,873,000"
+    "Box office": "$21,873,000",
+    "Budget (float)": null,
+    "Box office (float)": 21873000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "The Shaggy D.A.",
@@ -4446,7 +4950,11 @@
     "Running time": "91 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$10.5 million (US and Canada rentals)"
+    "Box office": "$10.5 million (US and Canada rentals)",
+    "Budget (float)": null,
+    "Box office (float)": 10500000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Freaky Friday",
@@ -4479,7 +4987,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$36 million"
+    "Box office": "$36 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 36000000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Escape from the Dark",
@@ -4514,7 +5026,11 @@
       "United Kingdom",
       "United States"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "The Many Adventures of",
@@ -4563,7 +5079,11 @@
     ],
     "Running time": "74 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "A Tale of Two Critters",
@@ -4580,7 +5100,11 @@
     ],
     "Running time": "48 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 48,
+    "Release date (datetime)": null
   },
   {
     "title": "The Rescuers",
@@ -4629,7 +5153,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$7.5 million",
-    "Box office": "$169 million"
+    "Box office": "$169 million",
+    "Budget (float)": 7500000.0,
+    "Box office (float)": 169000000.0,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "Herbie Goes to Monte Carlo",
@@ -4659,7 +5187,11 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$29 million"
+    "Box office": "$29 million",
+    "Budget (float)": null,
+    "Box office (float)": 29000000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Pete's Dragon",
@@ -4697,7 +5229,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$10 million",
-    "Box office": "$36 –39.6 million"
+    "Box office": "$36 –39.6 million",
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 36.0,
+    "Running time (int)": 128,
+    "Release date (datetime)": null
   },
   {
     "title": "Candleshoe",
@@ -4723,7 +5259,11 @@
     "Release date": "December 16, 1977",
     "Running time": "101 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "Return from Witch Mountain",
@@ -4752,7 +5292,11 @@
     ],
     "Running time": "94 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 94,
+    "Release date (datetime)": null
   },
   {
     "title": "The Cat from Outer Space",
@@ -4778,7 +5322,11 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3.5 to 4 million"
+    "Budget": "$3.5 to 4 million",
+    "Budget (float)": 3500000.0,
+    "Box office (float)": null,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Hot Lead and Cold Feet",
@@ -4809,7 +5357,11 @@
     "Release date": "July 5, 1978",
     "Running time": "90 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "The North Avenue Irregulars",
@@ -4839,7 +5391,11 @@
     "Release date": "February 9, 1979",
     "Running time": "100 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The Apple Dumpling Gang Rides Again",
@@ -4872,7 +5428,11 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$20,931,111"
+    "Box office": "$20,931,111",
+    "Budget (float)": null,
+    "Box office (float)": 20931111.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Unidentified Flying Oddball",
@@ -4903,7 +5463,11 @@
     ],
     "Language": "English",
     "Budget": "$5.25 million",
-    "Box office": "$4.475 million (US/Canada rentals )"
+    "Box office": "$4.475 million (US/Canada rentals )",
+    "Budget (float)": 5250000.0,
+    "Box office (float)": 4475000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The Black Hole",
@@ -4944,7 +5508,11 @@
     "Budget": "$20 million",
     "Box office": [
       "$35.8 million"
-    ]
+    ],
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 35800000.0,
+    "Running time (int)": 98,
+    "Release date (datetime)": null
   },
   {
     "title": "Midnight Madness",
@@ -4980,7 +5548,11 @@
     "Running time": "112 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.9 million"
+    "Box office": "$2.9 million",
+    "Budget (float)": null,
+    "Box office (float)": 2900000.0,
+    "Running time (int)": 112,
+    "Release date (datetime)": null
   },
   {
     "title": "The Watcher in the Woods",
@@ -5019,7 +5591,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$9 million",
-    "Box office": "$5 million"
+    "Box office": "$5 million",
+    "Budget (float)": 9.0,
+    "Box office (float)": 5.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "Herbie Goes Bananas",
@@ -5056,7 +5632,11 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18 million"
+    "Box office": "$18 million",
+    "Budget (float)": null,
+    "Box office (float)": 18000000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The Last Flight of Noah's Ark",
@@ -5092,7 +5672,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$6-8 million",
-    "Box office": "$11 million"
+    "Box office": "$11 million",
+    "Budget (float)": 6000000.0,
+    "Box office (float)": 11000000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Popeye",
@@ -5134,7 +5718,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$60 million"
+    "Box office": "$60 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 60000000.0,
+    "Running time (int)": 114,
+    "Release date (datetime)": null
   },
   {
     "title": "The Devil and Max Devlin",
@@ -5168,7 +5756,11 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$16 million (USA)"
+    "Box office": "$16 million (USA)",
+    "Budget (float)": null,
+    "Box office (float)": 16000000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Amy",
@@ -5192,7 +5784,11 @@
     "Release date": "March 20, 1981",
     "Running time": "97 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Dragonslayer",
@@ -5233,7 +5829,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million",
-    "Box office": "$14.1 million"
+    "Box office": "$14.1 million",
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 14100000.0,
+    "Running time (int)": 109,
+    "Release date (datetime)": null
   },
   {
     "title": "The Fox and the Hound",
@@ -5291,7 +5891,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$12 million",
-    "Box office": "$63.5 million"
+    "Box office": "$63.5 million",
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 63500000.0,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "Condorman",
@@ -5322,7 +5926,11 @@
     "Running time": "90 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million"
+    "Budget": "$14 million",
+    "Budget (float)": 14000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "Night Crossing",
@@ -5352,7 +5960,11 @@
     ],
     "Language": "English",
     "Budget": "$10 million",
-    "Box office": "$8 million"
+    "Box office": "$8 million",
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 8.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Tron",
@@ -5385,7 +5997,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million",
-    "Box office": "$50 million"
+    "Box office": "$50 million",
+    "Budget (float)": 17000000.0,
+    "Box office (float)": 50000000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Tex",
@@ -5420,7 +6036,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$7.4 million"
+    "Box office": "$7.4 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 7400000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "Trenchcoat",
@@ -5449,7 +6069,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$8 million",
-    "Box office": "$4,304,286 (US)"
+    "Box office": "$4,304,286 (US)",
+    "Budget (float)": 8.0,
+    "Box office (float)": 4304286.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -5484,7 +6108,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$8.4 million"
+    "Box office": "$8.4 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 8400000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Never Cry Wolf",
@@ -5530,7 +6158,11 @@
       "Inuktitut"
     ],
     "Budget": "$11 million",
-    "Box office": "$27.6 million"
+    "Box office": "$27.6 million",
+    "Budget (float)": 11000000.0,
+    "Box office (float)": 27600000.0,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Return to Oz",
@@ -5575,7 +6207,11 @@
     ],
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$11.1 million (USA)"
+    "Box office": "$11.1 million (USA)",
+    "Budget (float)": 28000000.0,
+    "Box office (float)": 11100000.0,
+    "Running time (int)": 113,
+    "Release date (datetime)": null
   },
   {
     "title": "The Black Cauldron",
@@ -5633,7 +6269,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$44 million",
-    "Box office": "$21.3 million"
+    "Box office": "$21.3 million",
+    "Budget (float)": 44000000.0,
+    "Box office (float)": 21300000.0,
+    "Running time (int)": 80,
+    "Release date (datetime)": null
   },
   {
     "title": "The Journey of Natty Gann",
@@ -5659,7 +6299,11 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9.7 million (U.S. and Canada only)"
+    "Box office": "$9.7 million (U.S. and Canada only)",
+    "Budget (float)": null,
+    "Box office (float)": 9700000.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "One Magic Christmas",
@@ -5698,7 +6342,11 @@
     ],
     "Language": "English",
     "Budget": "$7.5 million",
-    "Box office": "$13 million"
+    "Box office": "$13 million",
+    "Budget (float)": 7500000.0,
+    "Box office (float)": 13000000.0,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "The Great Mouse Detective",
@@ -5749,7 +6397,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million",
-    "Box office": "$38.7 million"
+    "Box office": "$38.7 million",
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 38700000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Flight of the Navigator",
@@ -5791,7 +6443,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$9 million",
-    "Box office": "$18,564,613"
+    "Box office": "$18,564,613",
+    "Budget (float)": 9.0,
+    "Box office (float)": 18564613.0,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "Benji the Hunted",
@@ -5821,7 +6477,11 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.3 million"
+    "Box office": "$22.3 million",
+    "Budget (float)": null,
+    "Box office (float)": 22300000.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "The Man from Snowy River II",
@@ -5863,7 +6523,11 @@
     "Country": "Australia",
     "Language": "English",
     "Budget": "A$8.7 million",
-    "Box office": "$13,687,027"
+    "Box office": "$13,687,027",
+    "Budget (float)": 8700000.0,
+    "Box office (float)": 13687027.0,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "Oliver & Company",
@@ -5918,7 +6582,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million",
-    "Box office": ">$121 million"
+    "Box office": ">$121 million",
+    "Budget (float)": 31000000.0,
+    "Box office (float)": 121000000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Honey, I Shrunk the Kids",
@@ -5954,7 +6622,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million",
-    "Box office": "$222.7 million"
+    "Box office": "$222.7 million",
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 222700000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Cheetah",
@@ -5992,7 +6664,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$8,153,677 (United States)"
+    "Box office": "$8,153,677 (United States)",
+    "Budget (float)": 5.0,
+    "Box office (float)": 8153677.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "The Little Mermaid",
@@ -6037,7 +6713,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million",
-    "Box office": ""
+    "Box office": "",
+    "Budget (float)": 40000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "DuckTales the Movie: Treasure of the Lost Lamp",
@@ -6078,7 +6758,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$18.1 million"
+    "Box office": "$18.1 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 18100000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "The Rescuers Down Under",
@@ -6120,7 +6804,11 @@
     "Running time": "77 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$47.4 million"
+    "Box office": "$47.4 million",
+    "Budget (float)": null,
+    "Box office (float)": 47400000.0,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "White Fang",
@@ -6162,7 +6850,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million",
-    "Box office": "$41 million (US/France)"
+    "Box office": "$41 million (US/France)",
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 41000000.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Shipwrecked",
@@ -6205,7 +6897,11 @@
       "English"
     ],
     "Budget": "60 million Norwegian Kroner (around $8.7 million in 1989)",
-    "Box office": "$15.1 million"
+    "Box office": "$15.1 million",
+    "Budget (float)": 8700000.0,
+    "Box office (float)": 15100000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Wild Hearts Can't Be Broken",
@@ -6236,7 +6932,11 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7.3 million"
+    "Box office": "$7.3 million",
+    "Budget (float)": null,
+    "Box office (float)": 7300000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "The Rocketeer",
@@ -6287,7 +6987,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35-40 million",
-    "Box office": "$46.7 million (U.S.)"
+    "Box office": "$46.7 million (U.S.)",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 46700000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "Beauty and the Beast",
@@ -6340,7 +7044,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$440.1 million"
+    "Box office": "$440.1 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 440100000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "Newsies",
@@ -6376,7 +7084,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$2.8 million"
+    "Box office": "$2.8 million",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 2800000.0,
+    "Running time (int)": 121,
+    "Release date (datetime)": null
   },
   {
     "title": "Honey, I Blew Up the Kid",
@@ -6421,7 +7133,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$32 million",
-    "Box office": "$96 million"
+    "Box office": "$96 million",
+    "Budget (float)": 32000000.0,
+    "Box office (float)": 96000000.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "The Mighty Ducks",
@@ -6455,7 +7171,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million",
-    "Box office": "$50.8 million"
+    "Box office": "$50.8 million",
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 50800000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Aladdin",
@@ -6515,7 +7235,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$504.1 million"
+    "Box office": "$504.1 million",
+    "Budget (float)": 28000000.0,
+    "Box office (float)": 504100000.0,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -6552,7 +7276,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$12 million",
-    "Box office": "$27.2 million"
+    "Box office": "$27.2 million",
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 27200000.0,
+    "Running time (int)": 86,
+    "Release date (datetime)": null
   },
   {
     "title": "Homeward Bound: The Incredible Journey",
@@ -6592,7 +7320,11 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$57 million"
+    "Box office": "$57 million",
+    "Budget (float)": null,
+    "Box office (float)": 57000000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "A Far Off Place",
@@ -6634,7 +7366,11 @@
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$12.9 million"
+    "Box office": "$12.9 million",
+    "Budget (float)": null,
+    "Box office (float)": 12900000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "The Adventures of Huck Finn",
@@ -6667,7 +7403,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$6.5 million",
-    "Box office": "$24.1 million"
+    "Box office": "$24.1 million",
+    "Budget (float)": 6500000.0,
+    "Box office (float)": 24100000.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Hocus Pocus",
@@ -6704,7 +7444,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$45.4 million"
+    "Box office": "$45.4 million",
+    "Budget (float)": 28000000.0,
+    "Box office (float)": 45400000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Cool Runnings",
@@ -6740,7 +7484,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million",
-    "Box office": "$154.9 million"
+    "Box office": "$154.9 million",
+    "Budget (float)": 17000000.0,
+    "Box office (float)": 154900000.0,
+    "Running time (int)": 98,
+    "Release date (datetime)": null
   },
   {
     "title": "The Three Musketeers",
@@ -6783,7 +7531,11 @@
     ],
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$111 million"
+    "Box office": "$111 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 111000000.0,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Iron Will",
@@ -6813,7 +7565,11 @@
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21 million"
+    "Box office": "$21 million",
+    "Budget (float)": null,
+    "Box office (float)": 21000000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "Blank Check",
@@ -6851,7 +7607,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$13 million",
-    "Box office": "$39 million"
+    "Box office": "$39 million",
+    "Budget (float)": 13000000.0,
+    "Box office (float)": 39000000.0,
+    "Running time (int)": 94,
+    "Release date (datetime)": null
   },
   {
     "title": "D2: The Mighty Ducks",
@@ -6888,7 +7648,11 @@
     "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$45.6 million"
+    "Box office": "$45.6 million",
+    "Budget (float)": null,
+    "Box office (float)": 45600000.0,
+    "Running time (int)": 106,
+    "Release date (datetime)": null
   },
   {
     "title": "White Fang 2: Myth of the White Wolf",
@@ -6912,7 +7676,11 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$8,878,839 (US)"
+    "Box office": "$8,878,839 (US)",
+    "Budget (float)": null,
+    "Box office (float)": 8878839.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "The Return of Jafar",
@@ -6971,7 +7739,11 @@
       "Japan"
     ],
     "Language": "English",
-    "Budget": "$5 million"
+    "Budget": "$5 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": null,
+    "Running time (int)": 69,
+    "Release date (datetime)": null
   },
   {
     "title": "The Lion King",
@@ -7034,7 +7806,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million",
-    "Box office": "$968.5 million"
+    "Box office": "$968.5 million",
+    "Budget (float)": 45000000.0,
+    "Box office (float)": 968500000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Angels in the Outfield",
@@ -7075,7 +7851,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million",
-    "Box office": "$50.2 million"
+    "Box office": "$50.2 million",
+    "Budget (float)": 31000000.0,
+    "Box office (float)": 50200000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Squanto: A Warrior's Tale",
@@ -7105,7 +7885,11 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$3,337,685"
+    "Box office": "$3,337,685",
+    "Budget (float)": null,
+    "Box office (float)": 3337685.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "The Santa Clause",
@@ -7143,7 +7927,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million",
-    "Box office": "$190.3 million"
+    "Box office": "$190.3 million",
+    "Budget (float)": 22000000.0,
+    "Box office (float)": 190300000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Rudyard Kipling's The Jungle Book",
@@ -7200,7 +7988,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$70.7 million"
+    "Box office": "$70.7 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 70700000.0,
+    "Running time (int)": 111,
+    "Release date (datetime)": null
   },
   {
     "title": "Heavyweights",
@@ -7247,7 +8039,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$17.6 million"
+    "Box office": "$17.6 million",
+    "Budget (float)": null,
+    "Box office (float)": 17600000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Man of the House",
@@ -7287,7 +8083,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million",
-    "Box office": "$40,070,995"
+    "Box office": "$40,070,995",
+    "Budget (float)": 22000000.0,
+    "Box office (float)": 40070995.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Tall Tale",
@@ -7327,7 +8127,11 @@
       "$32 million",
       "(estimated)"
     ],
-    "Box office": "$8.2 million"
+    "Box office": "$8.2 million",
+    "Budget (float)": 32000000.0,
+    "Box office (float)": 8199999.999999999,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "A Goofy Movie",
@@ -7367,7 +8171,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million",
-    "Box office": "$37.6 million"
+    "Box office": "$37.6 million",
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 37600000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Pocahontas",
@@ -7427,7 +8235,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$55 million",
-    "Box office": "$346.1 million"
+    "Box office": "$346.1 million",
+    "Budget (float)": 55000000.0,
+    "Box office (float)": 346100000.0,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "Operation Dumbo Drop",
@@ -7466,7 +8278,11 @@
       "Vietnamese"
     ],
     "Budget": "$24 million",
-    "Box office": "$24,670,346"
+    "Box office": "$24,670,346",
+    "Budget (float)": 24000000.0,
+    "Box office (float)": 24670346.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "A Kid in King Arthur's Court",
@@ -7510,7 +8326,11 @@
     ],
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$13.4 million (domestic)"
+    "Box office": "$13.4 million (domestic)",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 13400000.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "The Big Green",
@@ -7541,7 +8361,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$12 million",
-    "Box office": "$17.7 million"
+    "Box office": "$17.7 million",
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 17700000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "Frank and Ollie",
@@ -7569,7 +8393,11 @@
     ],
     "Running time": "89 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "Toy Story",
@@ -7619,7 +8447,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$363 million"
+    "Box office": "$363 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 363000000.0,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "Tom and Huck (1995)",
@@ -7652,7 +8484,11 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$23.9 million (US)"
+    "Box office": "$23.9 million (US)",
+    "Budget (float)": null,
+    "Box office (float)": 23900000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Muppet Treasure Island",
@@ -7694,7 +8530,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million",
-    "Box office": "$34.3 million (North America)"
+    "Box office": "$34.3 million (North America)",
+    "Budget (float)": 31000000.0,
+    "Box office (float)": 34300000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Homeward Bound II: Lost in San Francisco",
@@ -7733,7 +8573,11 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$32.7 million"
+    "Box office": "$32.7 million",
+    "Budget (float)": null,
+    "Box office (float)": 32700000.000000004,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "James and the Giant Peach",
@@ -7786,7 +8630,11 @@
     ],
     "Language": "English",
     "Budget": "$38 million",
-    "Box office": "$37.7 million"
+    "Box office": "$37.7 million",
+    "Budget (float)": 38000000.0,
+    "Box office (float)": 37700000.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -7834,7 +8682,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$70 million",
-    "Box office": "$325.3 million"
+    "Box office": "$325.3 million",
+    "Budget (float)": 70000000.0,
+    "Box office (float)": 325300000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Aladdin and the King of Thieves",
@@ -7876,7 +8728,11 @@
       "Australia",
       "Japan"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "First Kid",
@@ -7904,7 +8760,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$26,465,920 (USA)"
+    "Box office": "$26,465,920 (USA)",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 26465920.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "D3: The Mighty Ducks",
@@ -7945,7 +8805,11 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.9 million"
+    "Box office": "$22.9 million",
+    "Budget (float)": null,
+    "Box office (float)": 22900000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "101 Dalmatians",
@@ -7983,7 +8847,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$67 million",
-    "Box office": "$320.7 million"
+    "Box office": "$320.7 million",
+    "Budget (float)": 67000000.0,
+    "Box office (float)": 320700000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "That Darn Cat",
@@ -8021,7 +8889,11 @@
     "Running time": "86 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18.3 million"
+    "Box office": "$18.3 million",
+    "Budget (float)": null,
+    "Box office (float)": 18300000.0,
+    "Running time (int)": 86,
+    "Release date (datetime)": null
   },
   {
     "title": "Jungle 2 Jungle",
@@ -8063,7 +8935,11 @@
     ],
     "Language": "English",
     "Budget": "$32 million",
-    "Box office": "$59.9 million"
+    "Box office": "$59.9 million",
+    "Budget (float)": 32000000.0,
+    "Box office (float)": 59900000.0,
+    "Running time (int)": 106,
+    "Release date (datetime)": null
   },
   {
     "title": "Honey, We Shrunk Ourselves",
@@ -8098,7 +8974,11 @@
     "Running time": "74 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$7 million"
+    "Budget": "$7 million",
+    "Budget (float)": 7.0,
+    "Box office (float)": null,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Hercules",
@@ -8154,7 +9034,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million",
-    "Box office": "$252.7 million"
+    "Box office": "$252.7 million",
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 252700000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "George of the Jungle",
@@ -8196,7 +9080,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$55 million",
-    "Box office": "$174.4 million"
+    "Box office": "$174.4 million",
+    "Budget (float)": 55000000.0,
+    "Box office (float)": 174400000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Air Bud",
@@ -8242,7 +9130,11 @@
     ],
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$27.8 million"
+    "Box office": "$27.8 million",
+    "Budget (float)": 3.0,
+    "Box office (float)": 27800000.0,
+    "Running time (int)": 98,
+    "Release date (datetime)": null
   },
   {
     "title": "RocketMan",
@@ -8276,7 +9168,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$16 million",
-    "Box office": "$15.4 million"
+    "Box office": "$15.4 million",
+    "Budget (float)": 16000000.0,
+    "Box office (float)": 15400000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Flubber",
@@ -8319,7 +9215,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million",
-    "Box office": "$178 million"
+    "Box office": "$178 million",
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 178000000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Mr. Magoo",
@@ -8363,7 +9263,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$28.9 million"
+    "Box office": "$28.9 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 28900000.0,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "Meet the Deedles",
@@ -8397,7 +9301,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$24 million",
-    "Box office": "$4.4 million"
+    "Box office": "$4.4 million",
+    "Budget (float)": 24000000.0,
+    "Box office (float)": 4400000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Mulan",
@@ -8446,7 +9354,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million",
-    "Box office": "$304.3 million"
+    "Box office": "$304.3 million",
+    "Budget (float)": 90000000.0,
+    "Box office (float)": 304300000.0,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "The Parent Trap",
@@ -8480,7 +9392,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$92.1 million"
+    "Box office": "$92.1 million",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 92100000.0,
+    "Running time (int)": 128,
+    "Release date (datetime)": null
   },
   {
     "title": "The Jungle Book: Mowgli's Story",
@@ -8508,7 +9424,11 @@
     "Release date": "September 29, 1998",
     "Running time": "77 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "I'll Be Home for Christmas",
@@ -8546,7 +9466,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$12.2 million"
+    "Box office": "$12.2 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 12200000.0,
+    "Running time (int)": 86,
+    "Release date (datetime)": null
   },
   {
     "title": "A Bug's Life",
@@ -8586,7 +9510,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$120 million",
-    "Box office": "$363.3 million"
+    "Box office": "$363.3 million",
+    "Budget (float)": 120000000.0,
+    "Box office (float)": 363300000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Mighty Joe Young",
@@ -8633,7 +9561,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million",
-    "Box office": "$50.6 million (US)"
+    "Box office": "$50.6 million (US)",
+    "Budget (float)": 90000000.0,
+    "Box office (float)": 50600000.0,
+    "Running time (int)": 114,
+    "Release date (datetime)": null
   },
   {
     "title": "My Favorite Martian",
@@ -8669,7 +9601,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million",
-    "Box office": "$36.8 million"
+    "Box office": "$36.8 million",
+    "Budget (float)": 65000000.0,
+    "Box office (float)": 36800000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Doug's 1st Movie",
@@ -8717,7 +9653,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$19.4 million"
+    "Box office": "$19.4 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 19400000.0,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "Endurance",
@@ -8753,7 +9693,11 @@
       "United Kingdom",
       "Germany"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "Tarzan",
@@ -8822,7 +9766,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million",
-    "Box office": "$448.2 million"
+    "Box office": "$448.2 million",
+    "Budget (float)": 130000000.0,
+    "Box office (float)": 448200000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Inspector Gadget",
@@ -8879,7 +9827,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$75–90 million",
-    "Box office": "$134.4 million"
+    "Box office": "$134.4 million",
+    "Budget (float)": 75.0,
+    "Box office (float)": 134400000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "The Straight Story",
@@ -8926,7 +9878,11 @@
     ],
     "Language": "English",
     "Budget": "$10 million",
-    "Box office": "$6.4 million"
+    "Box office": "$6.4 million",
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 6400000.0,
+    "Running time (int)": 112,
+    "Release date (datetime)": null
   },
   {
     "title": "Mickey's Once Upon a Christmas",
@@ -8979,7 +9935,11 @@
     ],
     "Running time": "66 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 66,
+    "Release date (datetime)": null
   },
   {
     "title": "Toy Story 2",
@@ -9024,7 +9984,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million",
-    "Box office": "$511.3 million"
+    "Box office": "$511.3 million",
+    "Budget (float)": 90000000.0,
+    "Box office (float)": 511300000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "The Tigger Movie",
@@ -9067,7 +10031,11 @@
     ],
     "Language": "English",
     "Budget": "$15 million –$30 million",
-    "Box office": "$96.2 million"
+    "Box office": "$96.2 million",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 96200000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "An Extremely Goofy Movie",
@@ -9106,7 +10074,11 @@
       "Singapore",
       "Australia"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "Whispers: An Elephant's Tale",
@@ -9143,7 +10115,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4,000,000 (estimated)",
-    "Box office": "$500,000 (USA) (30 November 2000)"
+    "Box office": "$500,000 (USA) (30 November 2000)",
+    "Budget (float)": 4000000.0,
+    "Box office (float)": 500000.0,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Dinosaur",
@@ -9193,7 +10169,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$127.5 million",
-    "Box office": "$349.8 million"
+    "Box office": "$349.8 million",
+    "Budget (float)": 127500000.0,
+    "Box office (float)": 349800000.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "Fantasia 2000",
@@ -9239,7 +10219,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$80–$85 million",
-    "Box office": "$90.9 million"
+    "Box office": "$90.9 million",
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 90900000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "The Kid",
@@ -9278,7 +10262,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million",
-    "Box office": "$110.3 million"
+    "Box office": "$110.3 million",
+    "Budget (float)": 65000000.0,
+    "Box office (float)": 110300000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Buzz Lightyear of Star Command: The Adventure Begins",
@@ -9325,7 +10313,11 @@
     ],
     "Running time": "70 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 70,
+    "Release date (datetime)": null
   },
   {
     "title": "The Little Mermaid II: Return to the Sea",
@@ -9373,7 +10365,11 @@
       "Australia, Canada, United States",
       ""
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "Remember the Titans",
@@ -9405,7 +10401,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$136.8 million"
+    "Box office": "$136.8 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 136800000.0,
+    "Running time (int)": 113,
+    "Release date (datetime)": null
   },
   {
     "title": "102 Dalmatians",
@@ -9449,7 +10449,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million",
-    "Box office": "$183.6 million"
+    "Box office": "$183.6 million",
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 183600000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The Emperor's New Groove",
@@ -9488,7 +10492,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million",
-    "Box office": "$169.6 million"
+    "Box office": "$169.6 million",
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 169600000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Recess: School's Out",
@@ -9547,7 +10555,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$23 million",
-    "Box office": "$44.5 million"
+    "Box office": "$44.5 million",
+    "Budget (float)": 23000000.0,
+    "Box office (float)": 44500000.0,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "Lady and the Tramp II:",
@@ -9583,7 +10595,11 @@
     ],
     "Running time": "69 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 69,
+    "Release date (datetime)": null
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -9634,7 +10650,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$90–120 million",
-    "Box office": "$186.1 million"
+    "Box office": "$186.1 million",
+    "Budget (float)": 90.0,
+    "Box office (float)": 186100000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "The Princess Diaries",
@@ -9675,7 +10695,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$26 million",
-    "Box office": "$165.3 million"
+    "Box office": "$165.3 million",
+    "Budget (float)": 26000000.0,
+    "Box office (float)": 165300000.0,
+    "Running time (int)": 115,
+    "Release date (datetime)": null
   },
   {
     "title": "Max Keeble's Big Move",
@@ -9717,7 +10741,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$18.6 million"
+    "Box office": "$18.6 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 18600000.0,
+    "Running time (int)": 86,
+    "Release date (datetime)": null
   },
   {
     "title": "Monsters, Inc.",
@@ -9759,7 +10787,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$115 million",
-    "Box office": "$577.4 million"
+    "Box office": "$577.4 million",
+    "Budget (float)": 115000000.0,
+    "Box office (float)": 577400000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
@@ -9807,7 +10839,11 @@
       "United States",
       "Philippines"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 65,
+    "Release date (datetime)": null
   },
   {
     "title": "Snow Dogs",
@@ -9847,7 +10883,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$33 million",
-    "Box office": "$115 million"
+    "Box office": "$115 million",
+    "Budget (float)": 33000000.0,
+    "Box office (float)": 115000000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Return to Never Land",
@@ -9885,7 +10925,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$115.1 million"
+    "Box office": "$115.1 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 115100000.0,
+    "Running time (int)": 73,
+    "Release date (datetime)": null
   },
   {
     "title": "Cinderella II: Dreams Come True",
@@ -9919,7 +10963,11 @@
     "Running time": "73 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million"
+    "Budget": "$5 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": null,
+    "Running time (int)": 73,
+    "Release date (datetime)": null
   },
   {
     "title": "The Hunchback of Notre Dame II",
@@ -9965,7 +11013,11 @@
     ],
     "Running time": "68 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 68,
+    "Release date (datetime)": null
   },
   {
     "title": "The Rookie",
@@ -9998,7 +11050,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million",
-    "Box office": "$80.7 million"
+    "Box office": "$80.7 million",
+    "Budget (float)": 22000000.0,
+    "Box office (float)": 80700000.0,
+    "Running time (int)": 128,
+    "Release date (datetime)": null
   },
   {
     "title": "Lilo & Stitch",
@@ -10038,7 +11094,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million",
-    "Box office": "$273.1 million"
+    "Box office": "$273.1 million",
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 273100000.0,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "The Country Bears",
@@ -10072,7 +11132,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$18 million"
+    "Box office": "$18 million",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 18000000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Spirited Away",
@@ -10103,7 +11167,11 @@
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "$19.2 million",
-    "Box office": "$395.8 million"
+    "Box office": "$395.8 million",
+    "Budget (float)": 19200000.0,
+    "Box office (float)": 395800000.0,
+    "Running time (int)": 125,
+    "Release date (datetime)": null
   },
   {
     "title": "Tuck Everlasting",
@@ -10148,7 +11216,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$19.3 million"
+    "Box office": "$19.3 million",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 19300000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "The Santa Clause 2",
@@ -10202,7 +11274,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million",
-    "Box office": "$172.9 million"
+    "Box office": "$172.9 million",
+    "Budget (float)": 65000000.0,
+    "Box office (float)": 172900000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Treasure Planet",
@@ -10257,7 +11333,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$140 million",
-    "Box office": "$110 million"
+    "Box office": "$110 million",
+    "Budget (float)": 140000000.0,
+    "Box office (float)": 110000000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "101 Dalmatians II:",
@@ -10307,7 +11387,11 @@
     ],
     "Running time": "74 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "The Jungle Book 2",
@@ -10350,7 +11434,11 @@
     ],
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$135.7 million"
+    "Box office": "$135.7 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 135700000.0,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Inspector Gadget 2",
@@ -10391,7 +11479,11 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12 million"
+    "Budget": "$12 million",
+    "Budget (float)": 12000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Piglet's Big Movie",
@@ -10438,7 +11530,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$46 million",
-    "Box office": "$62.9 million"
+    "Box office": "$62.9 million",
+    "Budget (float)": 46000000.0,
+    "Box office (float)": 62900000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "Ghosts of the Abyss",
@@ -10487,7 +11583,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$13 million",
-    "Box office": "$28.7 million"
+    "Box office": "$28.7 million",
+    "Budget (float)": 13000000.0,
+    "Box office (float)": 28700000.0,
+    "Running time (int)": 61,
+    "Release date (datetime)": null
   },
   {
     "title": "Holes",
@@ -10533,7 +11633,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$71.4 million"
+    "Box office": "$71.4 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 71400000.0,
+    "Running time (int)": 117,
+    "Release date (datetime)": null
   },
   {
     "title": "The Lizzie McGuire Movie",
@@ -10571,7 +11675,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million",
-    "Box office": "$55.5 million"
+    "Box office": "$55.5 million",
+    "Budget (float)": 17000000.0,
+    "Box office (float)": 55500000.0,
+    "Running time (int)": 94,
+    "Release date (datetime)": null
   },
   {
     "title": "Finding Nemo",
@@ -10609,7 +11717,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$94 million",
-    "Box office": "$940.3 million"
+    "Box office": "$940.3 million",
+    "Budget (float)": 94000000.0,
+    "Box office (float)": 940300000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -10653,7 +11765,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$140 million",
-    "Box office": "$654.3 million"
+    "Box office": "$654.3 million",
+    "Budget (float)": 140000000.0,
+    "Box office (float)": 654300000.0,
+    "Running time (int)": 143,
+    "Release date (datetime)": null
   },
   {
     "title": "Freaky Friday",
@@ -10691,7 +11807,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$26 million",
-    "Box office": "$160.8 million"
+    "Box office": "$160.8 million",
+    "Budget (float)": 26000000.0,
+    "Box office (float)": 160800000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Stitch! The Movie",
@@ -10728,7 +11848,11 @@
     ],
     "Running time": "64 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 64,
+    "Release date (datetime)": null
   },
   {
     "title": "George of the Jungle 2",
@@ -10771,7 +11895,11 @@
       "United States",
       "Australia"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "Brother Bear",
@@ -10827,7 +11955,11 @@
       "Inuktitut"
     ],
     "Budget": "$46 million",
-    "Box office": "$250.4 million"
+    "Box office": "$250.4 million",
+    "Budget (float)": 46000000.0,
+    "Box office (float)": 250400000.0,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "The Haunted Mansion",
@@ -10861,7 +11993,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million",
-    "Box office": "$182.3 million"
+    "Box office": "$182.3 million",
+    "Budget (float)": 90000000.0,
+    "Box office (float)": 182300000.0,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "The Young Black Stallion",
@@ -10899,7 +12035,11 @@
     "Running time": "50 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9,638,389"
+    "Box office": "$9,638,389",
+    "Budget (float)": null,
+    "Box office (float)": 9638389.0,
+    "Running time (int)": 50,
+    "Release date (datetime)": null
   },
   {
     "title": "Teacher's Pet",
@@ -10937,7 +12077,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$10 million",
-    "Box office": "$6.5 million"
+    "Box office": "$6.5 million",
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 6500000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Miracle",
@@ -10977,7 +12121,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$64.5 million"
+    "Box office": "$64.5 million",
+    "Budget (float)": 28000000.0,
+    "Box office (float)": 64500000.0,
+    "Running time (int)": 136,
+    "Release date (datetime)": null
   },
   {
     "title": "The Lion King 1½",
@@ -11011,7 +12159,11 @@
     ],
     "Running time": "78 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Confessions of a Teenage Drama Queen",
@@ -11046,7 +12198,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$33.3 million"
+    "Box office": "$33.3 million",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 33299999.999999996,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "Winnie the Pooh: Springtime with Roo",
@@ -11085,7 +12241,11 @@
     ],
     "Running time": "65 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 65,
+    "Release date (datetime)": null
   },
   {
     "title": "Home on the Range",
@@ -11128,7 +12288,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$110 million",
-    "Box office": "$76.5 million"
+    "Box office": "$76.5 million",
+    "Budget (float)": 110000000.0,
+    "Box office (float)": 76500000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "Sacred Planet",
@@ -11169,7 +12333,11 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": "$1,108,356"
+    "Box office": "$1,108,356",
+    "Budget (float)": null,
+    "Box office (float)": 1108356.0,
+    "Running time (int)": 40,
+    "Release date (datetime)": null
   },
   {
     "title": "Around the World in 80 Days",
@@ -11224,7 +12392,11 @@
       "Hindi"
     ],
     "Budget": "$110 million",
-    "Box office": "$72.2 million"
+    "Box office": "$72.2 million",
+    "Budget (float)": 110000000.0,
+    "Box office (float)": 72200000.0,
+    "Running time (int)": 120,
+    "Release date (datetime)": null
   },
   {
     "title": "America's Heart and Soul",
@@ -11247,7 +12419,11 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$314,402"
+    "Box office": "$314,402",
+    "Budget (float)": null,
+    "Box office (float)": 314402.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "The Princess Diaries 2: Royal Engagement",
@@ -11290,7 +12466,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million",
-    "Box office": "$134.7 million"
+    "Box office": "$134.7 million",
+    "Budget (float)": 45000000.0,
+    "Box office (float)": 134700000.0,
+    "Running time (int)": 113,
+    "Release date (datetime)": null
   },
   {
     "title": "Mickey, Donald, Goofy: The Three Musketeers",
@@ -11329,7 +12509,11 @@
     ],
     "Running time": "67 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 67,
+    "Release date (datetime)": null
   },
   {
     "title": "The Incredibles",
@@ -11365,7 +12549,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$92–145 million",
-    "Box office": "$631.6 million"
+    "Box office": "$631.6 million",
+    "Budget (float)": 92.0,
+    "Box office (float)": 631600000.0,
+    "Running time (int)": 115,
+    "Release date (datetime)": null
   },
   {
     "title": "Mickey's Twice Upon a Christmas",
@@ -11420,7 +12608,11 @@
     ],
     "Running time": "67 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 67,
+    "Release date (datetime)": null
   },
   {
     "title": "National Treasure",
@@ -11465,7 +12657,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million",
-    "Box office": "$347.5 million"
+    "Box office": "$347.5 million",
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 347500000.0,
+    "Running time (int)": 131,
+    "Release date (datetime)": null
   },
   {
     "title": "Aliens of the Deep",
@@ -11506,7 +12702,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9 million"
+    "Box office": "$9 million",
+    "Budget (float)": null,
+    "Box office (float)": 9.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Mulan II",
@@ -11544,7 +12744,11 @@
     ],
     "Running time": "79 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "Pooh's Heffalump Movie",
@@ -11588,7 +12792,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$52.9 million"
+    "Box office": "$52.9 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 52900000.0,
+    "Running time (int)": 68,
+    "Release date (datetime)": null
   },
   {
     "title": "The Pacifier",
@@ -11626,7 +12834,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$56 million",
-    "Box office": "$198.6 million"
+    "Box office": "$198.6 million",
+    "Budget (float)": 56000000.0,
+    "Box office (float)": 198600000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Ice Princess",
@@ -11659,7 +12871,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$27.6 million"
+    "Box office": "$27.6 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 27600000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Tarzan II",
@@ -11710,7 +12926,11 @@
     ],
     "Running time": "72 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Herbie: Fully Loaded",
@@ -11754,7 +12974,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$144.1 million"
+    "Box office": "$144.1 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 144100000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Howl's Moving Castle",
@@ -11794,7 +13018,11 @@
       "¥",
       "23.2 billion",
       "US$236 million (worldwide)"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 119,
+    "Release date (datetime)": null
   },
   {
     "title": "Sky High",
@@ -11827,7 +13055,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$86.4 million"
+    "Box office": "$86.4 million",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 86400000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Valiant",
@@ -11875,7 +13107,11 @@
     ],
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$61.7 million"
+    "Box office": "$61.7 million",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 61700000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "Lilo & Stitch 2: Stitch Has a Glitch",
@@ -11910,7 +13146,11 @@
     ],
     "Running time": "68 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 68,
+    "Release date (datetime)": null
   },
   {
     "title": "Pooh's Heffalump Halloween Movie",
@@ -11950,7 +13190,11 @@
     ],
     "Running time": "67 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 67,
+    "Release date (datetime)": null
   },
   {
     "title": "The Greatest Game Ever Played",
@@ -11983,7 +13227,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$15.4 million"
+    "Box office": "$15.4 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 15400000.0,
+    "Running time (int)": 120,
+    "Release date (datetime)": null
   },
   {
     "title": "Chicken Little",
@@ -12024,7 +13272,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$314.4 million"
+    "Box office": "$314.4 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 314400000.0,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -12077,7 +13329,11 @@
     ],
     "Language": "English",
     "Budget": "$180 million",
-    "Box office": "$745 million"
+    "Box office": "$745 million",
+    "Budget (float)": 180000000.0,
+    "Box office (float)": 745000000.0,
+    "Running time (int)": 143,
+    "Release date (datetime)": null
   },
   {
     "title": "Kronk's New Groove",
@@ -12128,7 +13384,11 @@
     "Release date": "December 13, 2005",
     "Running time": "72 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Glory Road",
@@ -12170,7 +13430,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$42.9 million"
+    "Box office": "$42.9 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 42900000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Roving Mars",
@@ -12203,7 +13467,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$1 million",
-    "Box office": "$11 million"
+    "Box office": "$11 million",
+    "Budget (float)": 1.0,
+    "Box office (float)": 11000000.0,
+    "Running time (int)": 40,
+    "Release date (datetime)": null
   },
   {
     "title": "Bambi II",
@@ -12263,7 +13531,11 @@
       "Australia"
     ],
     "Language": "English",
-    "Box office": "$35 Million"
+    "Box office": "$35 Million",
+    "Budget (float)": null,
+    "Box office (float)": 35000000.0,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Eight Below",
@@ -12303,7 +13575,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million",
-    "Box office": "$120.5 million"
+    "Box office": "$120.5 million",
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 120500000.0,
+    "Running time (int)": 120,
+    "Release date (datetime)": null
   },
   {
     "title": "The Shaggy Dog",
@@ -12350,7 +13626,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$87.1 million"
+    "Box office": "$87.1 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 87100000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "The Wild",
@@ -12399,7 +13679,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million",
-    "Box office": "$102.3 million"
+    "Box office": "$102.3 million",
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 102300000.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "Cars",
@@ -12443,7 +13727,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$120 million",
-    "Box office": "$462 million"
+    "Box office": "$462 million",
+    "Budget (float)": 120000000.0,
+    "Box office (float)": 462000000.0,
+    "Running time (int)": 117,
+    "Release date (datetime)": null
   },
   {
     "title": "Leroy & Stitch",
@@ -12495,7 +13783,11 @@
     ],
     "Running time": "72 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 72,
+    "Release date (datetime)": null
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -12542,7 +13834,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$225 million",
-    "Box office": "$1.066 billion"
+    "Box office": "$1.066 billion",
+    "Budget (float)": 225000000.0,
+    "Box office (float)": 1066000000.0,
+    "Running time (int)": 150,
+    "Release date (datetime)": null
   },
   {
     "title": "Invincible",
@@ -12573,7 +13869,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$58.5 million"
+    "Box office": "$58.5 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 58500000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Brother Bear 2",
@@ -12614,7 +13914,11 @@
     ],
     "Running time": "73 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 73,
+    "Release date (datetime)": null
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -12656,7 +13960,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$24 million",
-    "Box office": "$91.5 million"
+    "Box office": "$91.5 million",
+    "Budget (float)": 24000000.0,
+    "Box office (float)": 91500000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "The Santa Clause 3: The Escape Clause",
@@ -12703,7 +14011,11 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$110.8 million"
+    "Box office": "$110.8 million",
+    "Budget (float)": null,
+    "Box office (float)": 110800000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "The Fox and the Hound 2",
@@ -12736,7 +14048,11 @@
       "December 12, 2006"
     ],
     "Running time": "69 minutes",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 69,
+    "Release date (datetime)": null
   },
   {
     "title": "Cinderella III: A Twist in Time",
@@ -12770,7 +14086,11 @@
     "Running time": "70 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$8 million"
+    "Budget": "$8 million",
+    "Budget (float)": 8.0,
+    "Box office (float)": null,
+    "Running time (int)": 70,
+    "Release date (datetime)": null
   },
   {
     "title": "Bridge to Terabithia",
@@ -12812,7 +14132,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million",
-    "Box office": "$137.6 million"
+    "Box office": "$137.6 million",
+    "Budget (float)": 17000000.0,
+    "Box office (float)": 137600000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Meet the Robinsons",
@@ -12861,7 +14185,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$169.3 million"
+    "Box office": "$169.3 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 169300000.0,
+    "Running time (int)": 94,
+    "Release date (datetime)": null
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -12910,7 +14238,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$300 million",
-    "Box office": "$960.9 million"
+    "Box office": "$960.9 million",
+    "Budget (float)": 300000000.0,
+    "Box office (float)": 960900000.0,
+    "Running time (int)": 169,
+    "Release date (datetime)": null
   },
   {
     "title": "Ratatouille",
@@ -12952,7 +14284,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$623.7 million"
+    "Box office": "$623.7 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 623700000.0,
+    "Running time (int)": 111,
+    "Release date (datetime)": null
   },
   {
     "title": "The Secret of the Magic Gourd",
@@ -12990,7 +14326,11 @@
     "Languages": [
       "Chinese",
       "English (U.S. release)"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "Underdog",
@@ -13025,7 +14365,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$65.3 million"
+    "Box office": "$65.3 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 65300000.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "The Pixar Story",
@@ -13047,7 +14391,11 @@
       "August 28, 2007"
     ],
     "Running time": "87 minutes",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "The Game Plan",
@@ -13087,7 +14435,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million",
-    "Box office": "$146.6 million"
+    "Box office": "$146.6 million",
+    "Budget (float)": 22000000.0,
+    "Box office (float)": 146600000.0,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "Enchanted",
@@ -13128,7 +14480,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million",
-    "Box office": "$340.5 million"
+    "Box office": "$340.5 million",
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 340500000.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -13188,7 +14544,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million",
-    "Box office": "$459.2 million"
+    "Box office": "$459.2 million",
+    "Budget (float)": 130000000.0,
+    "Box office (float)": 459200000.0,
+    "Running time (int)": 124,
+    "Release date (datetime)": null
   },
   {
     "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
@@ -13219,7 +14579,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$7 million",
-    "Box office": "$70.6 million"
+    "Box office": "$70.6 million",
+    "Budget (float)": 7.0,
+    "Box office (float)": 70600000.0,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "College Road Trip",
@@ -13255,7 +14619,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$51.5 million"
+    "Box office": "$51.5 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 51500000.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "The Chronicles of Narnia: Prince Caspian",
@@ -13305,7 +14673,11 @@
     ],
     "Language": "English",
     "Budget": "$225 million",
-    "Box office": "$419.6 million"
+    "Box office": "$419.6 million",
+    "Budget (float)": 225000000.0,
+    "Box office (float)": 419600000.0,
+    "Running time (int)": 150,
+    "Release date (datetime)": null
   },
   {
     "title": "WALL-E",
@@ -13350,7 +14722,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$180 million",
-    "Box office": "$521.3 million"
+    "Box office": "$521.3 million",
+    "Budget (float)": 180000000.0,
+    "Box office (float)": 521299999.99999994,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The Little Mermaid: Ariel's Beginning",
@@ -13392,7 +14768,11 @@
     "Country": [
       "United States"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "Beverly Hills Chihuahua",
@@ -13438,7 +14818,11 @@
       "Spanish"
     ],
     "Budget": "$20 million",
-    "Box office": "$149.3 million"
+    "Box office": "$149.3 million",
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 149300000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Morning Light",
@@ -13466,7 +14850,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$275,776"
+    "Box office": "$275,776",
+    "Budget (float)": null,
+    "Box office (float)": 275776.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "High School Musical 3: Senior Year",
@@ -13500,7 +14888,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$11 million",
-    "Box office": "$252.9 million"
+    "Box office": "$252.9 million",
+    "Budget (float)": 11000000.0,
+    "Box office (float)": 252900000.0,
+    "Running time (int)": 112,
+    "Release date (datetime)": null
   },
   {
     "title": "Roadside Romeo",
@@ -13535,7 +14927,11 @@
       "Hindi",
       "English"
     ],
-    "Box office": "$2 million"
+    "Box office": "$2 million",
+    "Budget (float)": null,
+    "Box office (float)": 2.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Tinker Bell",
@@ -13564,7 +14960,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$9.2 million"
+    "Box office": "$9.2 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 9200000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Bolt",
@@ -13605,7 +15005,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$310 million"
+    "Box office": "$310 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 310000000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Bedtime Stories",
@@ -13652,7 +15056,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million",
-    "Box office": "$212.9 million"
+    "Box office": "$212.9 million",
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 212900000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "Jonas Brothers: The 3D Concert Experience",
@@ -13693,7 +15101,11 @@
     ],
     "Country": "United States",
     "Language": "English",
-    "Box office": "$23.1 million"
+    "Box office": "$23.1 million",
+    "Budget (float)": null,
+    "Box office (float)": 23100000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "Race to Witch Mountain",
@@ -13737,7 +15149,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$106.4 million"
+    "Box office": "$106.4 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 106400000.0,
+    "Running time (int)": 98,
+    "Release date (datetime)": null
   },
   {
     "title": "Hannah Montana: The Movie",
@@ -13782,7 +15198,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$155.5 million"
+    "Box office": "$155.5 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 155500000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Earth",
@@ -13853,7 +15273,11 @@
     ],
     "Language": "English",
     "Budget": "$47 million",
-    "Box office": "$109 million"
+    "Box office": "$109 million",
+    "Budget (float)": 47000000.0,
+    "Box office (float)": 109000000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "The Boys: The Sherman Brothers' Story",
@@ -13893,7 +15317,11 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$55,513"
+    "Box office": "$55,513",
+    "Budget (float)": null,
+    "Box office (float)": 55513.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "Up",
@@ -13936,7 +15364,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$735.1 million"
+    "Box office": "$735.1 million",
+    "Budget (float)": 175000000.0,
+    "Box office (float)": 735100000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Hexe Lilli: Der Drache und das magische Buch",
@@ -13945,7 +15377,11 @@
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista International Germany",
     "Country": "Germany",
-    "Language": "German"
+    "Language": "German",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "G-Force",
@@ -13988,7 +15424,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$292.8 million"
+    "Box office": "$292.8 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 292800000.0,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "Ponyo",
@@ -14032,7 +15472,11 @@
       "US$",
       "34 million)"
     ],
-    "Box office": "US$ 204.8 million"
+    "Box office": "US$ 204.8 million",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "Walt & El Grupo",
@@ -14049,7 +15493,11 @@
     ],
     "Running time": "107 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Tinker Bell and the Lost Treasure",
@@ -14089,7 +15537,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30—$35 million",
-    "Box office": "$8,582,265"
+    "Box office": "$8,582,265",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 8582265.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "Книга Мастеров",
@@ -14118,7 +15570,11 @@
     "Country": "Russia",
     "Language": "Russian",
     "Budget": "$8 million ( ₽ 350 million)",
-    "Box office": "$11.3 million"
+    "Box office": "$11.3 million",
+    "Budget (float)": 8.0,
+    "Box office (float)": 11300000.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "A Christmas Carol",
@@ -14158,7 +15614,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175–200 million",
-    "Box office": "$325 million"
+    "Box office": "$325 million",
+    "Budget (float)": 175.0,
+    "Box office (float)": 325000000.0,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Old Dogs",
@@ -14202,7 +15662,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$96.8 million"
+    "Box office": "$96.8 million",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 96800000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "The Princess and the Frog",
@@ -14257,7 +15721,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$105 million",
-    "Box office": "$271 million"
+    "Box office": "$271 million",
+    "Budget (float)": 105000000.0,
+    "Box office (float)": 271000000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Alice in Wonderland",
@@ -14306,7 +15774,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 –$200 million",
-    "Box office": "$1.025 billion"
+    "Box office": "$1.025 billion",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1024999999.9999999,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "Oceans",
@@ -14365,7 +15837,11 @@
     "Country": "France",
     "Language": "French",
     "Budget": "$80 million",
-    "Box office": "$82.7 million"
+    "Box office": "$82.7 million",
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 82700000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -14410,7 +15886,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150–200 million",
-    "Box office": "$336.4 million"
+    "Box office": "$336.4 million",
+    "Budget (float)": 150.0,
+    "Box office (float)": 336400000.0,
+    "Running time (int)": 116,
+    "Release date (datetime)": null
   },
   {
     "title": "Toy Story 3",
@@ -14457,7 +15937,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$1.067 billion"
+    "Box office": "$1.067 billion",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1067000000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "The Sorcerer's Apprentice",
@@ -14506,7 +15990,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$215.3 million"
+    "Box office": "$215.3 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 215300000.0,
+    "Running time (int)": 109,
+    "Release date (datetime)": null
   },
   {
     "title": "Tales from Earthsea",
@@ -14543,7 +16031,11 @@
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "$22 million",
-    "Box office": ""
+    "Box office": "",
+    "Budget (float)": 22000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 115,
+    "Release date (datetime)": null
   },
   {
     "title": "The Crimson Wing: Mystery of the Flamingos",
@@ -14587,7 +16079,11 @@
       "United Kingdom",
       "United States"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Tinker Bell and the Great Fairy Rescue",
@@ -14637,7 +16133,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30—$35 million",
-    "Box office": "$10,872,752"
+    "Box office": "$10,872,752",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 10872752.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "Secretariat",
@@ -14677,7 +16177,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$60.3 million"
+    "Box office": "$60.3 million",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 60300000.0,
+    "Running time (int)": 123,
+    "Release date (datetime)": null
   },
   {
     "title": "Do Dooni Chaar",
@@ -14709,7 +16213,11 @@
     ],
     "Running time": "108 minutes",
     "Country": "India",
-    "Language": "Hindi"
+    "Language": "Hindi",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "Tangled",
@@ -14744,7 +16252,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$260 million",
-    "Box office": "$592.4 million"
+    "Box office": "$592.4 million",
+    "Budget (float)": 260000000.0,
+    "Box office (float)": 592400000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Tron: Legacy",
@@ -14791,7 +16303,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million",
-    "Box office": "$400.1 million"
+    "Box office": "$400.1 million",
+    "Budget (float)": 170000000.0,
+    "Box office (float)": 400100000.0,
+    "Running time (int)": 125,
+    "Release date (datetime)": null
   },
   {
     "title": "Once Upon a Warrior",
@@ -14829,7 +16345,11 @@
     ],
     "Country": "India",
     "Language": "Telugu",
-    "Budget": ""
+    "Budget": "",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Beverly Hills Chihuahua 2",
@@ -14875,7 +16395,11 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$29.6 million"
+    "Box office": "$29.6 million",
+    "Budget (float)": null,
+    "Box office (float)": 29600000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "Lilly the Witch: The Journey to Mandolan",
@@ -14897,7 +16421,11 @@
     ],
     "Running time": "90 minutes",
     "Country": "Germany",
-    "Language": "German"
+    "Language": "German",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 90,
+    "Release date (datetime)": null
   },
   {
     "title": "Mars Needs Moms",
@@ -14943,7 +16471,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$39.2 million"
+    "Box office": "$39.2 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 39200000.0,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "Zokkomon",
@@ -14971,7 +16503,11 @@
     ],
     "Running time": "109 minutes",
     "Country": "India",
-    "Language": "Hindi"
+    "Language": "Hindi",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 109,
+    "Release date (datetime)": null
   },
   {
     "title": "African Cats",
@@ -15012,7 +16548,11 @@
       "French"
     ],
     "Budget": "$5 million",
-    "Box office": "$30.9 million"
+    "Box office": "$30.9 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 30900000.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "Prom",
@@ -15050,7 +16590,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$8 million",
-    "Box office": "$10.7 million"
+    "Box office": "$10.7 million",
+    "Budget (float)": 8.0,
+    "Box office (float)": 10700000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -15101,7 +16645,11 @@
       "$410.6 million (gross)",
       "$378.5 million (net)"
     ],
-    "Box office": "$1.046 billion"
+    "Box office": "$1.046 billion",
+    "Budget (float)": 410600000.0,
+    "Box office (float)": 1046000000.0,
+    "Running time (int)": 137,
+    "Release date (datetime)": null
   },
   {
     "title": "Cars 2",
@@ -15143,7 +16691,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$559.8 million"
+    "Box office": "$559.8 million",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 559800000.0,
+    "Running time (int)": 106,
+    "Release date (datetime)": null
   },
   {
     "title": "Winnie the Pooh",
@@ -15203,7 +16755,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$50.1 million"
+    "Box office": "$50.1 million",
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 50100000.0,
+    "Running time (int)": 63,
+    "Release date (datetime)": null
   },
   {
     "title": "Spooky Buddies",
@@ -15250,7 +16806,11 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 88,
+    "Release date (datetime)": null
   },
   {
     "title": "The Muppets",
@@ -15293,7 +16853,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million",
-    "Box office": "$165.2 million"
+    "Box office": "$165.2 million",
+    "Budget (float)": 45000000.0,
+    "Box office (float)": 165200000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "Treasure Buddies",
@@ -15337,7 +16901,11 @@
     ],
     "Running time": "93 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "Arrietty",
@@ -15380,7 +16948,11 @@
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "$23 million",
-    "Box office": "$146 million"
+    "Box office": "$146 million",
+    "Budget (float)": 23000000.0,
+    "Box office (float)": 146000000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "John Carter",
@@ -15429,7 +17001,11 @@
       "$306.6 million (gross)",
       "$263.7 million (net)"
     ],
-    "Box office": "$284.1 million"
+    "Box office": "$284.1 million",
+    "Budget (float)": 306600000.0,
+    "Box office (float)": 284100000.0,
+    "Running time (int)": 132,
+    "Release date (datetime)": null
   },
   {
     "title": "Chimpanzee",
@@ -15475,7 +17051,11 @@
       "French"
     ],
     "Budget": "$5 million",
-    "Box office": "$34.8 million"
+    "Box office": "$34.8 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 34800000.0,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "Arjun: The Warrior Prince",
@@ -15503,7 +17083,11 @@
     ],
     "Running time": "96 minutes",
     "Country": "India",
-    "Language": "Hindi"
+    "Language": "Hindi",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 96,
+    "Release date (datetime)": null
   },
   {
     "title": "Brave",
@@ -15550,7 +17134,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$185 million",
-    "Box office": "$540.4 million"
+    "Box office": "$540.4 million",
+    "Budget (float)": 185000000.0,
+    "Box office (float)": 540400000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The Odd Life of Timothy Green",
@@ -15590,7 +17178,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million",
-    "Box office": "$56 million"
+    "Box office": "$56 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 56000000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
@@ -15625,7 +17217,11 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$12.2 million"
+    "Box office": "$12.2 million",
+    "Budget (float)": null,
+    "Box office (float)": 12200000.0,
+    "Running time (int)": 89,
+    "Release date (datetime)": null
   },
   {
     "title": "Frankenweenie",
@@ -15669,7 +17265,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$39 million",
-    "Box office": "$81.5 million"
+    "Box office": "$81.5 million",
+    "Budget (float)": 39000000.0,
+    "Box office (float)": 81500000.0,
+    "Running time (int)": 87,
+    "Release date (datetime)": null
   },
   {
     "title": "Secret of the Wings",
@@ -15711,7 +17311,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30—35 million",
-    "Box office": "$67.5 million"
+    "Box office": "$67.5 million",
+    "Budget (float)": 30.0,
+    "Box office (float)": 67500000.0,
+    "Running time (int)": 75,
+    "Release date (datetime)": null
   },
   {
     "title": "Wreck-It Ralph",
@@ -15748,7 +17352,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$165 million",
-    "Box office": "$496.5 million"
+    "Box office": "$496.5 million",
+    "Budget (float)": 165000000.0,
+    "Box office (float)": 496500000.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "Oz the Great and Powerful",
@@ -15793,7 +17401,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$493.3 million"
+    "Box office": "$493.3 million",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 493300000.0,
+    "Running time (int)": 130,
+    "Release date (datetime)": null
   },
   {
     "title": "Wings of Life",
@@ -15835,7 +17447,11 @@
     "Languages": [
       "French",
       "English"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "Monsters University",
@@ -15885,7 +17501,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$743.6 million"
+    "Box office": "$743.6 million",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 743600000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "The Lone Ranger",
@@ -15941,7 +17561,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$225–250 million",
-    "Box office": "$260.5 million"
+    "Box office": "$260.5 million",
+    "Budget (float)": 225.0,
+    "Box office (float)": 260500000.0,
+    "Running time (int)": 149,
+    "Release date (datetime)": null
   },
   {
     "title": "Planes",
@@ -15985,7 +17609,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$239.3 million"
+    "Box office": "$239.3 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 239300000.0,
+    "Running time (int)": 92,
+    "Release date (datetime)": null
   },
   {
     "title": "Super Buddies",
@@ -16034,7 +17662,11 @@
     ],
     "Running time": "81 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "Frozen",
@@ -16080,7 +17712,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$1.280 billion"
+    "Box office": "$1.280 billion",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 1280000000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Saving Mr. Banks",
@@ -16130,7 +17766,11 @@
     ],
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$117.9 million"
+    "Box office": "$117.9 million",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 117900000.0,
+    "Running time (int)": 125,
+    "Release date (datetime)": null
   },
   {
     "title": "Muppets Most Wanted",
@@ -16175,7 +17815,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$80.4 million"
+    "Box office": "$80.4 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 80400000.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "The Pirate Fairy",
@@ -16223,7 +17867,11 @@
     "Running time": "78 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$64.9 million"
+    "Box office": "$64.9 million",
+    "Budget (float)": null,
+    "Box office (float)": 64900000.00000001,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Bears",
@@ -16249,7 +17897,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$21.3 million"
+    "Box office": "$21.3 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 21300000.0,
+    "Running time (int)": 77,
+    "Release date (datetime)": null
   },
   {
     "title": "Million Dollar Arm",
@@ -16291,7 +17943,11 @@
       "Hindi"
     ],
     "Budget": "$25 million",
-    "Box office": "$40.2 million"
+    "Box office": "$40.2 million",
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 40200000.0,
+    "Running time (int)": 124,
+    "Release date (datetime)": null
   },
   {
     "title": "Maleficent",
@@ -16330,7 +17986,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$180–263 million",
-    "Box office": "$758.5 million"
+    "Box office": "$758.5 million",
+    "Budget (float)": 180.0,
+    "Box office (float)": 758500000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Planes: Fire & Rescue",
@@ -16370,7 +18030,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$147 million"
+    "Box office": "$147 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 147000000.0,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "Khoobsurat",
@@ -16410,7 +18074,11 @@
     "Country": "India",
     "Language": "Hindi",
     "Budget": "(US$2.9 million)",
-    "Box office": "est. (US$9.9 million)"
+    "Box office": "est. (US$9.9 million)",
+    "Budget (float)": 2900000.0,
+    "Box office (float)": 9900000.0,
+    "Running time (int)": 127,
+    "Release date (datetime)": null
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
@@ -16452,7 +18120,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$100.6 million"
+    "Box office": "$100.6 million",
+    "Budget (float)": 28000000.0,
+    "Box office (float)": 100600000.0,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "Big Hero 6",
@@ -16504,7 +18176,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$165 million",
-    "Box office": "$657.9 million"
+    "Box office": "$657.9 million",
+    "Budget (float)": 165000000.0,
+    "Box office (float)": 657900000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Into the Woods",
@@ -16553,7 +18229,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$213.1 million"
+    "Box office": "$213.1 million",
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 213100000.0,
+    "Running time (int)": 124,
+    "Release date (datetime)": null
   },
   {
     "title": "McFarland, USA",
@@ -16595,7 +18275,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million",
-    "Box office": "$45.7 million"
+    "Box office": "$45.7 million",
+    "Budget (float)": 17000000.0,
+    "Box office (float)": 45700000.0,
+    "Running time (int)": 129,
+    "Release date (datetime)": null
   },
   {
     "title": "Tinker Bell and the Legend of the NeverBeast",
@@ -16640,7 +18324,11 @@
     "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$31.2 million (non-US box office)"
+    "Box office": "$31.2 million (non-US box office)",
+    "Budget (float)": null,
+    "Box office (float)": 31200000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "Cinderella",
@@ -16689,7 +18377,11 @@
     ],
     "Language": "English",
     "Budget": "$84.21-95 million",
-    "Box office": "$542.4 million"
+    "Box office": "$542.4 million",
+    "Budget (float)": 84210000.0,
+    "Box office (float)": 542400000.0,
+    "Running time (int)": 106,
+    "Release date (datetime)": null
   },
   {
     "title": "Monkey Kingdom",
@@ -16720,7 +18412,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5–10 million",
-    "Box office": "$17.1 million"
+    "Box office": "$17.1 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 17100000.0,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "Tomorrowland",
@@ -16770,7 +18466,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$180–190 million",
-    "Box office": "$209 million"
+    "Box office": "$209 million",
+    "Budget (float)": 180.0,
+    "Box office (float)": 209000000.0,
+    "Running time (int)": 130,
+    "Release date (datetime)": null
   },
   {
     "title": "Inside Out",
@@ -16818,7 +18518,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$858.8 million"
+    "Box office": "$858.8 million",
+    "Budget (float)": 175000000.0,
+    "Box office (float)": 858800000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "ABCD 2",
@@ -16859,7 +18563,11 @@
     "Country": "India",
     "Language": "Hindi",
     "Budget": "",
-    "Box office": "est."
+    "Box office": "est.",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 154,
+    "Release date (datetime)": null
   },
   {
     "title": "The Good Dinosaur",
@@ -16912,7 +18620,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175–200 million",
-    "Box office": "$332.2 million"
+    "Box office": "$332.2 million",
+    "Budget (float)": 175.0,
+    "Box office (float)": 332200000.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The Finest Hours",
@@ -16961,7 +18673,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$70–80 million",
-    "Box office": "$52.1 million"
+    "Box office": "$52.1 million",
+    "Budget (float)": 70.0,
+    "Box office (float)": 52100000.0,
+    "Running time (int)": 117,
+    "Release date (datetime)": null
   },
   {
     "title": "Zootopia",
@@ -17022,7 +18738,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$1.024 billion"
+    "Box office": "$1.024 billion",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 1024000000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "The Jungle Book",
@@ -17066,7 +18786,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175–177 million",
-    "Box office": "$966.6 million"
+    "Box office": "$966.6 million",
+    "Budget (float)": 175.0,
+    "Box office (float)": 966600000.0,
+    "Running time (int)": 106,
+    "Release date (datetime)": null
   },
   {
     "title": "Tini: The Movie",
@@ -17105,7 +18829,11 @@
       "Italy"
     ],
     "Language": "Spanish",
-    "Box office": "$17 million"
+    "Box office": "$17 million",
+    "Budget (float)": null,
+    "Box office (float)": 17000000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -17155,7 +18883,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million",
-    "Box office": "$299.5 million"
+    "Box office": "$299.5 million",
+    "Budget (float)": 170000000.0,
+    "Box office (float)": 299500000.0,
+    "Running time (int)": 113,
+    "Release date (datetime)": null
   },
   {
     "title": "Finding Dory",
@@ -17198,7 +18930,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$1.029 billion"
+    "Box office": "$1.029 billion",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1028999999.9999999,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "The BFG",
@@ -17251,7 +18987,11 @@
     ],
     "Language": "English",
     "Budget": "$140 million",
-    "Box office": "$195.2 million"
+    "Box office": "$195.2 million",
+    "Budget (float)": 140000000.0,
+    "Box office (float)": 195200000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Pete's Dragon",
@@ -17290,7 +19030,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million",
-    "Box office": "$143.7 million"
+    "Box office": "$143.7 million",
+    "Budget (float)": 65000000.0,
+    "Box office (float)": 143700000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "Queen of Katwe",
@@ -17333,7 +19077,11 @@
       "Luganda"
     ],
     "Budget": "$15 million",
-    "Box office": "$10.4 million"
+    "Box office": "$10.4 million",
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 10400000.0,
+    "Running time (int)": 124,
+    "Release date (datetime)": null
   },
   {
     "title": "Moana",
@@ -17389,7 +19137,11 @@
     ],
     "Language": "English",
     "Budget": "$150–175 million",
-    "Box office": "$645 million"
+    "Box office": "$645 million",
+    "Budget (float)": 150.0,
+    "Box office (float)": 645000000.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Dangal",
@@ -17436,7 +19188,11 @@
     "Country": "India",
     "Language": "Hindi",
     "Budget": "",
-    "Box office": "est."
+    "Box office": "est.",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 161,
+    "Release date (datetime)": null
   },
   {
     "title": "March of the Penguins",
@@ -17479,7 +19235,11 @@
     "Country": "France",
     "Language": "French",
     "Budget": "$8 million",
-    "Box office": "$127.4 million"
+    "Box office": "$127.4 million",
+    "Budget (float)": 8.0,
+    "Box office (float)": 127400000.0,
+    "Running time (int)": 86,
+    "Release date (datetime)": null
   },
   {
     "title": "Beauty and the Beast",
@@ -17526,7 +19286,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$160–255 million",
-    "Box office": "$1.264 billion"
+    "Box office": "$1.264 billion",
+    "Budget (float)": 160.0,
+    "Box office (float)": 1264000000.0,
+    "Running time (int)": 129,
+    "Release date (datetime)": null
   },
   {
     "title": "Born in China",
@@ -17579,7 +19343,11 @@
       "French"
     ],
     "Budget": "$5–10 million",
-    "Box office": "$25.1 million"
+    "Box office": "$25.1 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 25100000.0,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -17631,7 +19399,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$230–320 million",
-    "Box office": "$794.9 million"
+    "Box office": "$794.9 million",
+    "Budget (float)": 230.0,
+    "Box office (float)": 794900000.0,
+    "Running time (int)": 129,
+    "Release date (datetime)": null
   },
   {
     "title": "Cars 3",
@@ -17684,7 +19456,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$383.9 million"
+    "Box office": "$383.9 million",
+    "Budget (float)": 175000000.0,
+    "Box office (float)": 383900000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Ghost of the Mountains",
@@ -17702,7 +19478,11 @@
       "June 30, 2017 (United States)"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Jagga Jasoos",
@@ -17748,7 +19528,11 @@
     "Country": "India",
     "Language": "Hindi",
     "Budget": "131 crore",
-    "Box office": "86.85 crore"
+    "Box office": "86.85 crore",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 162,
+    "Release date (datetime)": null
   },
   {
     "title": "The Last Knight",
@@ -17805,7 +19589,11 @@
       "$30.5 million",
       "₽",
       "1.731 billion"
-    ]
+    ],
+    "Budget (float)": 8.0,
+    "Box office (float)": 30500000.0,
+    "Running time (int)": 114,
+    "Release date (datetime)": null
   },
   {
     "title": "Coco",
@@ -17852,7 +19640,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175–225 million",
-    "Box office": "$807.8 million"
+    "Box office": "$807.8 million",
+    "Budget (float)": 175.0,
+    "Box office (float)": 807800000.0,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "A Wrinkle in Time",
@@ -17898,7 +19690,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$100–130 million",
-    "Box office": "$132.7 million"
+    "Box office": "$132.7 million",
+    "Budget (float)": 100.0,
+    "Box office (float)": 132699999.99999999,
+    "Running time (int)": 109,
+    "Release date (datetime)": null
   },
   {
     "title": "Incredibles 2",
@@ -17940,7 +19736,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$1.243 billion"
+    "Box office": "$1.243 billion",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1243000000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Christopher Robin",
@@ -17990,7 +19790,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$65-70 million",
-    "Box office": "$197.7 million"
+    "Box office": "$197.7 million",
+    "Budget (float)": 65000000.0,
+    "Box office (float)": 197700000.0,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "The Nutcracker and the Four Realms",
@@ -18033,7 +19837,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$120–133 million",
-    "Box office": "$174 million"
+    "Box office": "$174 million",
+    "Budget (float)": 120.0,
+    "Box office (float)": 174000000.0,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "Ralph Breaks the Internet",
@@ -18086,7 +19894,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$529.3 million"
+    "Box office": "$529.3 million",
+    "Budget (float)": 175000000.0,
+    "Box office (float)": 529299999.99999994,
+    "Running time (int)": 112,
+    "Release date (datetime)": null
   },
   {
     "title": "Mary Poppins Returns",
@@ -18136,7 +19948,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million",
-    "Box office": "$349.5 million"
+    "Box office": "$349.5 million",
+    "Budget (float)": 130000000.0,
+    "Box office (float)": 349500000.0,
+    "Running time (int)": 131,
+    "Release date (datetime)": null
   },
   {
     "title": "Dumbo",
@@ -18180,7 +19996,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million",
-    "Box office": "$353.3 million"
+    "Box office": "$353.3 million",
+    "Budget (float)": 170000000.0,
+    "Box office (float)": 353300000.0,
+    "Running time (int)": 112,
+    "Release date (datetime)": null
   },
   {
     "title": "Penguins",
@@ -18209,7 +20029,11 @@
     "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7.7\n million"
+    "Box office": "$7.7\n million",
+    "Budget (float)": null,
+    "Box office (float)": 7.7,
+    "Running time (int)": 76,
+    "Release date (datetime)": null
   },
   {
     "title": "Aladdin",
@@ -18258,7 +20082,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$183 million",
-    "Box office": ""
+    "Box office": "",
+    "Budget (float)": 183000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 128,
+    "Release date (datetime)": null
   },
   {
     "title": "Toy Story 4",
@@ -18318,7 +20146,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$1.073 billion"
+    "Box office": "$1.073 billion",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 1073000000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The Lion King",
@@ -18365,7 +20197,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$250–260 million",
-    "Box office": "$1.663 billion"
+    "Box office": "$1.663 billion",
+    "Budget (float)": 250.0,
+    "Box office (float)": 1663000000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Maleficent: Mistress of Evil",
@@ -18416,7 +20252,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$185 million",
-    "Box office": "$491.7 million"
+    "Box office": "$491.7 million",
+    "Budget (float)": 185000000.0,
+    "Box office (float)": 491700000.0,
+    "Running time (int)": 119,
+    "Release date (datetime)": null
   },
   {
     "title": "Lady and the Tramp",
@@ -18460,7 +20300,11 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$60 million"
+    "Budget": "$60 million",
+    "Budget (float)": 60000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 104,
+    "Release date (datetime)": null
   },
   {
     "title": "Noelle",
@@ -18488,7 +20332,11 @@
     ],
     "Running time": "100 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Frozen II",
@@ -18535,7 +20383,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$1.450 billion"
+    "Box office": "$1.450 billion",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 1450000000.0,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "Togo",
@@ -18556,7 +20408,11 @@
     "Running time": "114 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million"
+    "Budget": "$40 million",
+    "Budget (float)": 40000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 114,
+    "Release date (datetime)": null
   },
   {
     "title": "Timmy Failure: Mistakes Were Made",
@@ -18598,7 +20454,11 @@
     "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$42 million"
+    "Budget": "$42 million",
+    "Budget (float)": 42000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 99,
+    "Release date (datetime)": null
   },
   {
     "title": "Onward",
@@ -18645,7 +20505,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175–200 million",
-    "Box office": "$142 million"
+    "Box office": "$142 million",
+    "Budget (float)": 175.0,
+    "Box office (float)": 142000000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Stargirl",
@@ -18687,7 +20551,11 @@
     ],
     "Running time": "107 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Dolphin Reef",
@@ -18716,7 +20584,11 @@
     ],
     "Running time": "78 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Elephant",
@@ -18744,7 +20616,11 @@
     ],
     "Running time": "86 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 86,
+    "Release date (datetime)": null
   },
   {
     "title": "Artemis Fowl",
@@ -18786,7 +20662,11 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$125 million"
+    "Budget": "$125 million",
+    "Budget (float)": 125000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Hamilton",
@@ -18831,7 +20711,11 @@
     "Running time": "160 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12.5 million (stage production)"
+    "Budget": "$12.5 million (stage production)",
+    "Budget (float)": 12500000.0,
+    "Box office (float)": null,
+    "Running time (int)": 160,
+    "Release date (datetime)": null
   },
   {
     "title": "Black Is King",
@@ -18928,7 +20812,11 @@
     ],
     "Running time": "85 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "Magic Camp",
@@ -18972,7 +20860,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$24 million"
+    "Budget": "$24 million",
+    "Budget (float)": 24000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "The One and Only Ivan",
@@ -19010,7 +20902,11 @@
     ],
     "Running time": "95 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Mulan",
@@ -19060,7 +20956,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$70 million"
+    "Box office": "$70 million",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 70000000.0,
+    "Running time (int)": 115,
+    "Release date (datetime)": null
   },
   {
     "title": "Godmothered",
@@ -19100,7 +21000,11 @@
       "English",
       "Latin"
     ],
-    "Budget": "Unknown"
+    "Budget": "Unknown",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 110,
+    "Release date (datetime)": null
   },
   {
     "title": "Safety",
@@ -19133,7 +21037,11 @@
     "Running time": "122 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$26 million"
+    "Budget": "$26 million",
+    "Budget (float)": 26000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 122,
+    "Release date (datetime)": null
   },
   {
     "title": "Soul",
@@ -19182,7 +21090,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million",
-    "Box office": "$121 million"
+    "Box office": "$121 million",
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 121000000.0,
+    "Running time (int)": 101,
+    "Release date (datetime)": null
   },
   {
     "title": "The Last Warrior: Root of Evil",
@@ -19242,7 +21154,11 @@
       "₽2.046 billion",
       "$28.3 million (Worldwide)",
       "$28.6 million (Russia/ CIS )"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 121,
+    "Release date (datetime)": null
   },
   {
     "title": "Flora & Ulysses",
@@ -19277,7 +21193,11 @@
     ],
     "Running time": "95 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Raya and the Last Dragon",
@@ -19343,7 +21263,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million+",
-    "Box office": "$130.4 million"
+    "Box office": "$130.4 million",
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 130400000.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Cruella",
@@ -19393,7 +21317,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$100–200 million",
-    "Box office": "$233.5 million"
+    "Box office": "$233.5 million",
+    "Budget (float)": 100.0,
+    "Box office (float)": 233500000.0,
+    "Running time (int)": 134,
+    "Release date (datetime)": null
   },
   {
     "title": "Luca",
@@ -19441,7 +21369,11 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$49.8 million"
+    "Box office": "$49.8 million",
+    "Budget (float)": null,
+    "Box office (float)": 49800000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "Jungle Cruise",
@@ -19495,7 +21427,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$220.9 million"
+    "Box office": "$220.9 million",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 220900000.0,
+    "Running time (int)": 128,
+    "Release date (datetime)": null
   },
   {
     "title": "Encanto",
@@ -19556,7 +21492,11 @@
       "Spanish"
     ],
     "Budget": "$120–150 million",
-    "Box office": "$256.8 million"
+    "Box office": "$256.8 million",
+    "Budget (float)": 120.0,
+    "Box office (float)": 256800000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Diary of a Wimpy Kid",
@@ -19589,7 +21529,11 @@
       "Canada",
       "United States"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 58,
+    "Release date (datetime)": null
   },
   {
     "title": "The Last Warrior: A Messenger of Darkness",
@@ -19646,7 +21590,11 @@
     "Box office": [
       "₽2.196 billion",
       "$27 million"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "The Ice Age Adventures of Buck Wild",
@@ -19690,7 +21638,11 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 82,
+    "Release date (datetime)": null
   },
   {
     "title": "Turning Red",
@@ -19741,7 +21693,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$20.1 million"
+    "Box office": "$20.1 million",
+    "Budget (float)": 175000000.0,
+    "Box office (float)": 20100000.0,
+    "Running time (int)": 100,
+    "Release date (datetime)": null
   },
   {
     "title": "Cheaper by the Dozen",
@@ -19782,7 +21738,11 @@
     ],
     "Running time": "107 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "Better Nate Than Ever",
@@ -19818,7 +21778,11 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$36 million"
+    "Budget": "$36 million",
+    "Budget (float)": 36000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Polar Bear",
@@ -19842,7 +21806,11 @@
     ],
     "Running time": "84 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 84,
+    "Release date (datetime)": null
   },
   {
     "title": "Chip 'n Dale: Rescue Rangers",
@@ -19891,7 +21859,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "~$70 million",
-    "Box office": "$675,500"
+    "Box office": "$675,500",
+    "Budget (float)": 70000000.0,
+    "Box office (float)": 675500.0,
+    "Running time (int)": 97,
+    "Release date (datetime)": null
   },
   {
     "title": "Hollywood Stargirl",
@@ -19939,7 +21911,11 @@
     ],
     "Running time": "105 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Lightyear",
@@ -19985,7 +21961,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$226.4 million"
+    "Box office": "$226.4 million",
+    "Budget (float)": 200000000.0,
+    "Box office (float)": 226400000.0,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Rise",
@@ -20019,7 +21999,11 @@
     "Languages": [
       "English",
       "Greek"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 111,
+    "Release date (datetime)": null
   },
   {
     "title": "Pinocchio",
@@ -20068,7 +22052,11 @@
     ],
     "Running time": "105 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 105,
+    "Release date (datetime)": null
   },
   {
     "title": "Hocus Pocus 2",
@@ -20110,7 +22098,11 @@
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million"
+    "Budget": "$40 million",
+    "Budget (float)": 40000000.0,
+    "Box office (float)": null,
+    "Running time (int)": 103,
+    "Release date (datetime)": null
   },
   {
     "title": "Disenchanted",
@@ -20159,7 +22151,11 @@
     ],
     "Running time": "118 minutes",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Strange World",
@@ -20191,7 +22187,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$135–180 million",
-    "Box office": "$29.6 million"
+    "Box office": "$29.6 million",
+    "Budget (float)": 135.0,
+    "Box office (float)": 29600000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Diary of a Wimpy Kid: Rodrick Rules",
@@ -20221,7 +22221,11 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 74,
+    "Release date (datetime)": null
   },
   {
     "title": "Night at the Museum: Kahmunrah Rises Again",
@@ -20269,7 +22273,11 @@
       "Canada",
       "China"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "The Little Mermaid",
@@ -20318,7 +22326,11 @@
       "May 26, 2023 (United States)"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Haunted Mansion",
@@ -20358,7 +22370,11 @@
       "August 11, 2023"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Snow White",
@@ -20398,7 +22414,11 @@
       "March 22, 2024"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Inside Out",
@@ -20446,7 +22466,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$858.8 million"
+    "Box office": "$858.8 million",
+    "Budget (float)": 175000000.0,
+    "Box office (float)": 858800000.0,
+    "Running time (int)": 95,
+    "Release date (datetime)": null
   },
   {
     "title": "The Lion King",
@@ -20493,7 +22517,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$250–260 million",
-    "Box office": "$1.663 billion"
+    "Box office": "$1.663 billion",
+    "Budget (float)": 250.0,
+    "Box office (float)": 1663000000.0,
+    "Running time (int)": 118,
+    "Release date (datetime)": null
   },
   {
     "title": "Chang Can Dunk",
@@ -20520,7 +22548,11 @@
       "2023"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Peter Pan & Wendy",
@@ -20558,7 +22590,11 @@
       "2023"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
@@ -20600,7 +22636,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$100.6 million"
+    "Box office": "$100.6 million",
+    "Budget (float)": 28000000.0,
+    "Box office (float)": 100600000.0,
+    "Running time (int)": 81,
+    "Release date (datetime)": null
   },
   {
     "title": "Bambi",
@@ -20648,7 +22688,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$858,000",
-    "Box office": "$267.4 million"
+    "Box office": "$267.4 million",
+    "Budget (float)": 858000.0,
+    "Box office (float)": 267399999.99999997,
+    "Running time (int)": 70,
+    "Release date (datetime)": null
   },
   {
     "title": "Crater",
@@ -20675,7 +22719,11 @@
     "Distributed by": "Disney+",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$53.4 million"
+    "Budget": "$53.4 million",
+    "Budget (float)": 53400000.0,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Father of the Bride",
@@ -20693,7 +22741,11 @@
     ],
     "Release date": "1950–present",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Hercules",
@@ -20749,7 +22801,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million",
-    "Box office": "$252.7 million"
+    "Box office": "$252.7 million",
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 252700000.0,
+    "Running time (int)": 93,
+    "Release date (datetime)": null
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -20797,7 +22853,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$70 million",
-    "Box office": "$325.3 million"
+    "Box office": "$325.3 million",
+    "Budget (float)": 70000000.0,
+    "Box office (float)": 325300000.0,
+    "Running time (int)": 91,
+    "Release date (datetime)": null
   },
   {
     "title": "Inspector Gadget",
@@ -20854,7 +22914,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$75–90 million",
-    "Box office": "$134.4 million"
+    "Box office": "$134.4 million",
+    "Budget (float)": 75.0,
+    "Box office (float)": 134400000.0,
+    "Running time (int)": 78,
+    "Release date (datetime)": null
   },
   {
     "title": "Lilo & Stitch",
@@ -20894,7 +22958,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million",
-    "Box office": "$273.1 million"
+    "Box office": "$273.1 million",
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 273100000.0,
+    "Running time (int)": 85,
+    "Release date (datetime)": null
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -20954,7 +23022,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million",
-    "Box office": "$459.2 million"
+    "Box office": "$459.2 million",
+    "Budget (float)": 130000000.0,
+    "Box office (float)": 459200000.0,
+    "Running time (int)": 124,
+    "Release date (datetime)": null
   },
   {
     "title": "",
@@ -20983,7 +23055,11 @@
       "Laurence Olivier Award for Best New Musical",
       "2018",
       "Tony Award for Best Revival of a Musical"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "Robin Hood",
@@ -21023,7 +23099,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$33 million"
+    "Box office": "$33 million",
+    "Budget (float)": 5.0,
+    "Box office (float)": 33000000.0,
+    "Running time (int)": 83,
+    "Release date (datetime)": null
   },
   {
     "title": "SpaceCamp",
@@ -21064,7 +23144,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million or $25 million",
-    "Box office": "$9,697,739 (USA)"
+    "Box office": "$9,697,739 (USA)",
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 9697739.0,
+    "Running time (int)": 107,
+    "Release date (datetime)": null
   },
   {
     "title": "",
@@ -21093,7 +23177,11 @@
       "Tony Award for Best Book of a Musical",
       "Drama Desk Award for Outstanding Book of a Musical",
       "Lucille Lortel Award for Outstanding Musical"
-    ]
+    ],
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   },
   {
     "title": "The Aristocats",
@@ -21139,7 +23227,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$191 million"
+    "Box office": "$191 million",
+    "Budget (float)": 4.0,
+    "Box office (float)": 191000000.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "The Sword in the Stone",
@@ -21174,7 +23266,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$22.2 million (United States and Canada)"
+    "Box office": "$22.2 million (United States and Canada)",
+    "Budget (float)": 3.0,
+    "Box office (float)": 22200000.0,
+    "Running time (int)": 79,
+    "Release date (datetime)": null
   },
   {
     "title": "Three Men and a Baby",
@@ -21215,7 +23311,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$11 million",
-    "Box office": "$240 million"
+    "Box office": "$240 million",
+    "Budget (float)": 11000000.0,
+    "Box office (float)": 240000000.0,
+    "Running time (int)": 102,
+    "Release date (datetime)": null
   },
   {
     "title": "Tinker Bell",
@@ -21256,7 +23356,11 @@
       "468 minutes"
     ],
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": 468,
+    "Release date (datetime)": null
   },
   {
     "title": "The Rocketeer",
@@ -21307,7 +23411,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35-40 million",
-    "Box office": "$46.7 million (U.S.)"
+    "Box office": "$46.7 million (U.S.)",
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 46700000.0,
+    "Running time (int)": 108,
+    "Release date (datetime)": null
   },
   {
     "title": "Young Woman and the Sea",
@@ -21333,6 +23441,10 @@
     ],
     "Distributed by": "Disney+",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Running time (int)": null,
+    "Release date (datetime)": null
   }
 ]
