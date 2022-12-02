@@ -84,13 +84,10 @@ for index, movie in enumerate(movies):
 
 # Save data - json preferable
 
-import json
 def save_data(title, data):
   with open(title, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii= False, indent=2)
 
-
-import json
 
 def load_data(title):
   with open(title, encoding="utf-8") as f:
