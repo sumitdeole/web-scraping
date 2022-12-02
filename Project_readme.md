@@ -2,11 +2,14 @@
 
 ### **Description:** 
 We will scrape movie information (producers, directors, cast, budget, etc.) of Walt Disney movies from Wikipedia pages. The project is divided into three exercises:
+
 1. Get movie information on a famous Walt Disney Movie: Toy Story 3: https://en.wikipedia.org/wiki/Toy_Story_3
     - Code stored in *Toy_story_3.py*
 2. Get the list of all Walt Disney movies: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
     - Code stored in *Disney_movies.py*
-3. Clean the data
+3. Clean and analyse the data
+
+
 ### Python packages
 - Requests
 - BeautifulSoup
