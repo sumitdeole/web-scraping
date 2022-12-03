@@ -12,16 +12,16 @@
 #################################################################
 
 
-
-import requests
+# Import packages
 from bs4 import BeautifulSoup as bs
-import prettify
-import random
+from datetime import datetime
+import requests
 import json
 import re
-import pytest
+import pickle
 
 
+# Get the html response
 page = "https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films"
 response = requests.get(page)
 soup = bs(response.content, "html.parser")
@@ -84,11 +84,6 @@ def get_info_box(url):
 # Solution also removes double data entries, e.g., "Release date": [       "November 13, 1940 ( 1940-11-13 )"     ],
 
 
-page = "https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films"
-response = requests.get(page)
-soup = bs(response.content, "html.parser")
-
-
 movies = soup.select(".wikitable.sortable i a") # or one step less soup.select(".wikitable.sortable i") --> throws movies without links in errors
 
 base_path = "https://en.wikipedia.org/"
@@ -111,10 +106,8 @@ for index, movie in enumerate(movies):
 
 # Convert dates into datetimes
 print([movie.get("Release date", "N/A") for movie in movie_info_list])
-# Typical format: June 27, 1941 --> but different edge cases
-from datetime import datetime
+# Typical format: June 27, 1941 --> but many edge cases
 dates = [movie.get("Release date", "N/A") for movie in movie_info_list]
-
 def clean_date(date):
   return date.split("(")[0].strip()
 
@@ -142,7 +135,7 @@ def date_conversion(date):
 # print([movie.get("Running time", "N/A") for movie in movie_info_list])
 
 ### Task: Convert running time into integer
-# First, check whther all movies have running times
+# First, check whether all movies have running times
 # Command
 # print([movie.get("Running time", "N/A") for movie in movie_info_list])
 # Solution: Lets write a function "minutes_to_integer()"
@@ -172,8 +165,6 @@ def minutes_to_integer(running_time):
 # Given either a string or a list of strings as input, return a number (int or float) which is equal to the monetary value
 # money_conversion("$12.2 million") --> 12200000    --> Word syntax
 # money_conversion("$790,000") --> 790000  --> Value syntax
-import re
-
 number = r"\d+(,\d{3})*\.*\d*"
 amounts = r"thousand|million|billion"
 standard = fr"\${number}(-|\sto\s)?({number})?\s({amounts})"
@@ -217,22 +208,36 @@ for movie in movie_info_list:
   movie["Budget (float)"]=money_conversion(movie.get("Budget", "N/A"))
   movie["Box office (float)"]=money_conversion(movie.get("Box office", "N/A"))
   movie["Running time (int)"]=minutes_to_integer(movie.get("Running time", "N/A"))
-  movie["Release date (datetime)"] = money_conversion(movie.get("Release date", "N/A"))
-
-
-
-
+  movie["Release date (datetime)"] = date_conversion(movie.get("Release date", "N/A"))
 
 
 # Save data - json preferable
 
-def save_data(title, data):
-  with open(title, "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii= False, indent=2)
+# def save_data(title, data):
+#   with open(title, "w", encoding="utf-8") as f:
+#     json.dump(data, f, ensure_ascii= False, indent=2)
+#
+#
+# def load_data(title):
+#   with open(title, encoding="utf-8") as f:
+#     return json.load(f)
+#
+# save_data("Disney_data_clean.json", movie_info_list)
+# Alert: Cannot continue saving the file into JSON as datetime errs
+# SO for now, lets save the data in Pickle and return to it in exercise 5
 
+# Alternatively, use pickle to save and reloaad data
 
-def load_data(title):
-  with open(title, encoding="utf-8") as f:
-    return json.load(f)
+def save_data_pickle(name, data):
+  with open(name, "wb") as f:
+    pickle.dump(data, f)
 
-save_data("Disney_data_clean.json", movie_info_list)
+def load_data_pickle(name):
+  with open(name, "rb") as f:
+    return pickle.load(f)
+
+save_data_pickle("Disney_data_cleaned.pickle", movie_info_list)
+ # To call saved data
+with open("Disney_data_cleaned.pickle", "rb") as fp:
+    movie_info_list = pickle.load(fp)
+
