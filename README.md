@@ -41,6 +41,8 @@ To perform the exercises listed above, the following Python packages are install
 - regex
 - Pytest
 - Pickle
+- urllib
+- Pandas
 
 
 
