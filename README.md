@@ -28,7 +28,9 @@ We will scrape movie information (producers, directors, cast, budget, etc.) of W
         - Edge cases: "$3.355 million (worldwide rentals) [2]" *or* "$950,000 [2]" *or* "$3.7 million (U.S. rental) + $575,000 (foreign rental) [3]" *or* "60 million Norwegian Kroner (around $8.7 million in 1989)"
         - All monetary values converted to *float* with the *money_conversion(money)* method
 4. Merge the cleaned movie list data (in step #3) with IMDB/Metascore/Rotten Tomatoes ratings of the Disney movies: Here, instead of scraping these websites for ratings separately, we will use publicly available APIs (e.g., [OMDb API](https://www.omdbapi.com/)).
-5. Finally, let's save data in JSON and CSV formats
+        - Data file saved as pickle file *Disney_data_cleaned.pickle*   
+6. Finally, let's save data in JSON and CSV formats
+        - Two new data files saved: *Disney_data_final.json* and *Disney_data_final.csv*
 
 
 ### Python packages
