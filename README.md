@@ -18,7 +18,7 @@ We will scrape movie information (producers, directors, cast, budget, etc.) of W
         - Will be convered into an integer with the *minutes_to_integer(running_time)* method
     - Remove the wiki references/citations: [1], [2], [3], etc.
         - Present in many places. 
-        - Removed the citations and ignored the links
+        - Removed the citations and ignored the cited weblinks
     - Repair the inconsistencies in the "Starring" list --> Split up the long strings, e.g., movie "The Great Locomotive Chase"
         - No comma separation between dnamees
         - Edge case 1: "Produced by": "David Blocker Larry Brezner Mark Frost"
